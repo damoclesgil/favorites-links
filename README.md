@@ -69,6 +69,9 @@
 * [Husky - Prevent Bad Commit](https://github.com/typicode/husky)
 * [Sinon JS - Work with Promises, Mocks JS, Tests spies and stubs](http://sinonjs.org/)
 * [NYC - Command line interface](https://github.com/istanbuljs/nyc)
+* [Coveralls](https://coveralls.io/)
+* [Travis](https://travis-ci.org/)
+* [Enzyme - Lib Airbnb](http://airbnb.io/enzyme/)
 
 ## Terminal, Console, cmd
 
@@ -113,6 +116,7 @@
 * [Windows 10 - Themes](http://www.themeraider.com/)
 * [Fast Stone](http://www.faststone.org/FSViewerDownload.htm)
 * [Windows Explorer Preview PSD](http://www.luisaambros.com/blog/previa-em-miniatura-de-arquivos-psd-ai-pdf-eps-no-windows-explorer/)
+* [Redimensionar Imagem](https://www.iloveimg.com/pt/redimensionar-imagem)
 
 ## SVG
 
@@ -152,7 +156,7 @@
 ## Beuftify Code, Format & Ident
 
 * [Code Beautify](https://codebeautify.org/)
-* [Prettier](prettier.io/playground/)
+* [Prettier](https://prettier.io/)
 
 ## Optimization, Minify, Compress & Perfomance
 
@@ -197,6 +201,8 @@
 
 ## Extensions
 
+* [OctoLinker](http://octolinker.github.io/)
+* [Octotree](https://github.com/buunguyen/octotree)
 * [Code Copy](https://github.com/zenorocha/codecopy)
 * [Feedly Notifier](https://feedly.com/)
 * [Dracula Dev Tools](https://chrome.google.com/webstore/detail/dracula-devtools-theme/gdhgkfojgddhijhlnnnbopleoabkeife?utm_source=chrome-app-launcher-info-dialog)
@@ -226,11 +232,16 @@
 * [Configure Cloud App Enine To Deploy](https://cloud.google.com/sdk/docs/managing-configurations)
 * [Surge](http://surge.sh/)
 * [Zeit](https://zeit.co/now)
+* [Middle Man Deploy](https://github.com/middleman-contrib/middleman-deploy)
 
 ## CMS
 
 * [Hugo.io](https://gohugo.io/)
 * [Page kit](https://pagekit.com//)
+
+## Task Runners
+
+*[Webpack CSS Examples](https://github.com/bensmithett/webpack-css-example)
 
 ## Open Source Community
 
@@ -277,13 +288,14 @@
 
 ## Learn English
 
-[Curso de Inglês Grátis](http://www.cursodeinglesgratis.org)
+* [Curso de Inglês Grátis](http://www.cursodeinglesgratis.org)
 
 ## Others
 
 * [Organize Favorits](https://raindrop.io)
 * [Octobox](https://octobox.io/)
 * [Simular Pesquisa no Google](https://lmgtfy.com/)
+* [Awesome Portfolios](https://github.com/iRaul/awesome-portfolios)
 
 ## Games
 
@@ -295,3 +307,10 @@
 * [Trine](http://store.steampowered.com/app/319910/Trine_3_The_Artifacts_of_Power/)
 * [Devil May Cry 4](http://store.steampowered.com/app/45700/Devil_May_Cry_4/)
 * [Games on GitHub](https://github.com/leereilly/games)
+* [No Ping Tunnel](https://www.nptunnel.com/)
+
+## Games Mobile
+
+*[Lineage 2: Revolution](https://play.google.com/store/apps/details?id=com.netmarble.lin2ws)
+*[Lineage 2: Revolution - APK](http://www.androidappsgame.net/download/com.netmarble.lin2ws)
+*[HIT](https://play.google.com/store/apps/details?id=com.nexon.hit.global)
