@@ -47,6 +47,7 @@
 * [Bootstrap Cheatsheet](https://hackerthemes.com/bootstrap-cheatsheet/)
 * [CSS Cheat Sheet](https://adam-marsden.co.uk/css-cheat-sheet/)
 * [Reddit css](https://www.reddit.com/r/css/)
+* [GRID TOOLS](https://1stwebdesigner.com/free-css-grid-tools-resources/)
 
 ## JS
 
@@ -194,10 +195,15 @@
 * [Keyworld Tool](https://keywordtool.io/search/)
 * [Generator Sitemaps](https://www.xml-sitemaps.com/)
 
-## Templates
+## Templates & Themes
 
 * [Theme Forest](https://themeforest.net/)
 * [Template Monster](https://www.templatemonster.com/pt-br/)
+* [Code Canyon](http://codecanyon.net/)
+* [Mojo Themes](http://www.mojo-themes.com/)
+* [Wpeden](http://wpeden.com/)
+* [Theme snap](http://www.themesnap.com/)
+* [Creative Market](https://creativemarket.com/)
 
 ## Extensions
 
@@ -238,10 +244,16 @@
 
 * [Hugo.io](https://gohugo.io/)
 * [Page kit](https://pagekit.com//)
+* [Wordpress](https://wordpress.org/)
+
+## Wordpress
+
+* [Getflywheel](https://local.getflywheel.com/)
+* [Vagrant](https://www.vagrantup.com/)
 
 ## Task Runners
 
-*[Webpack CSS Examples](https://github.com/bensmithett/webpack-css-example)
+* [Webpack CSS Examples](https://github.com/bensmithett/webpack-css-example)
 
 ## Open Source Community
 
@@ -311,6 +323,6 @@
 
 ## Games Mobile
 
-*[Lineage 2: Revolution](https://play.google.com/store/apps/details?id=com.netmarble.lin2ws)
-*[Lineage 2: Revolution - APK](http://www.androidappsgame.net/download/com.netmarble.lin2ws)
-*[HIT](https://play.google.com/store/apps/details?id=com.nexon.hit.global)
+* [Lineage 2: Revolution](https://play.google.com/store/apps/details?id=com.netmarble.lin2ws)
+* [Lineage 2: Revolution - APK](http://www.androidappsgame.net/download/com.netmarble.lin2ws)
+* [HIT](https://play.google.com/store/apps/details?id=com.nexon.hit.global)
