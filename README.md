@@ -250,6 +250,12 @@
 
 * [Getflywheel](https://local.getflywheel.com/)
 * [Vagrant](https://www.vagrantup.com/)
+* [WP - Resources](https://docs.google.com/document/d/1QwQXK3S8t2DlGduWmlNMINukPJhJFSDlQAlrpz2LLBo/edit)
+* [WP Developer Documentation](https://developer.wordpress.org/themes/getting-started/)
+* [Codex WP](https://codex.wordpress.org/Theme_Development/)
+* [Newsletter](https://wordpress.org/plugins/newsletter/#description)
+* [Contact Form 7](https://wordpress.org/plugins/contact-form-7/)
+* [Tutorial HXTuttors](https://www.youtube.com/watch?v=Roz4nx5bcmU&list=PL2NLqGvZxQu1V9cuzSOPpZo2uJhT7SGqZ&index=4)
 
 ## Task Runners
 
@@ -297,6 +303,7 @@
 
 * [Dev na Estrada](http://devnaestrada.com.br/)
 * [Hipsters.tech](https://hipsters.tech/category/podcast/)
+* [Lambda3](https://www.lambda3.com.br/lambda3-podcast/)
 
 ## Learn English
 
