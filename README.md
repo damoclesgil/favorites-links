@@ -128,7 +128,7 @@
 * [SVG View Windows Explorer](https://svgextension.codeplex.com/releases/view/118790)
 
 ## Colors
-
+* [Montar Paleta de Cores](http://ambiance.somethingjustlikethis.com/)
 * [Colour Loves](http://www.colourlovers.com)
 * [Color Mind](http://colormind.io/)
 * [Grabient](https://www.grabient.com/)
@@ -160,12 +160,9 @@
 * [Prettier](https://prettier.io/)
 
 ## Optimization, Minify, Compress & Perfomance
-
-* [Performance Challenge](https://www.smashingmagazine.com/2017/10/front-end-performance-challenge/)
-* [SPDY - Check](https://spdycheck.org/)
-* [HTTP2 Test Tool](https://tools.keycdn.com/http2-test)
+* [Tinypng - Minifiy PNG and JPG](https://tinypng.com/)
+* [Convert PNG TO JPG](http://png2jpg.com)
 * [HTML, CSS and JS Minify](http://minifycode.com//)
-* [PNG and JPEG compression](https://tinypng.com/)
 * [Compressor.io](https://compressor.io/compress)
 * [Kraken](https://kraken.io/web-interface)
 * [Image Magick - Redimensionar Imagens](https://www.imagemagick.org/script/index.php)
@@ -177,6 +174,9 @@
 * [Page Speed - Google](https://developers.google.com/speed/pagespeed/insights/)
 * [Dados - Importância da Otimização](https://wpostats.com/)
 * [Sitespeed.io](https://www.sitespeed.io/)
+* [Performance Challenge](https://www.smashingmagazine.com/2017/10/front-end-performance-challenge/)
+* [SPDY - Check](https://spdycheck.org/)
+* [HTTP2 Test Tool](https://tools.keycdn.com/http2-test)
 
 ## SEO
 
@@ -225,13 +225,15 @@
 * [Panda 5](https://chrome.google.com/webstore/detail/panda-5-news-inspiration/haafibkemckmbknhfkiiniobjpgkebko)
 * [Stylish](https://userstyles.org/)
 * [Identifay technology on WebSites](https://wappalyzer.com/)
+* [Site mod.io](https://sitemod.io/)
+* [Wappalyzer](https://www.google.com.br/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiL5sDD5oTYAhXLGZAKHTaDBbMQFggpMAA&url=https%3A%2F%2Fchrome.google.com%2Fwebstore%2Fdetail%2Fwappalyzer%2Fgppongmhjkpfnbhagpmjfkannfbllamg%3Fhl%3Den&usg=AOvVaw3_UVGEz8V7Cdtgjy4W3GSO)
 
 ## Marketing
 
 * [Marketing Checklist](https://www.sideprojectchecklist.com/)
 * [Facebook Business](https://www.facebook.com/business/help/1114358518575630)
 
-## Deploy, UP Websites
+## Deploy, UP Websites, FTP Servers
 
 * [We Deploy](https://wedeploy.com/)
 * [Google Cloud APP Engine](https://cloud.google.com/appengine/docs/standard/python/getting-started/hosting-a-static-website)
@@ -239,6 +241,7 @@
 * [Surge](http://surge.sh/)
 * [Zeit](https://zeit.co/now)
 * [Middle Man Deploy](https://github.com/middleman-contrib/middleman-deploy)
+* [Filezilla](https://filezilla-project.org/download.php?type=client)
 
 ## CMS
 
@@ -255,7 +258,8 @@
 * [Codex WP](https://codex.wordpress.org/Theme_Development/)
 * [Newsletter](https://wordpress.org/plugins/newsletter/#description)
 * [Contact Form 7](https://wordpress.org/plugins/contact-form-7/)
-* [Tutorial HXTuttors](https://www.youtube.com/watch?v=Roz4nx5bcmU&list=PL2NLqGvZxQu1V9cuzSOPpZo2uJhT7SGqZ&index=4)
+* [Smart Slider 3](https://smartslider3.com/?utm_source=codrops&utm_medium=collective&utm_campaign=slider)
+* [HX Tuttors Tutorial](https://www.youtube.com/watch?v=Roz4nx5bcmU&list=PL2NLqGvZxQu1V9cuzSOPpZo2uJhT7SGqZ&index=4)
 
 ## Task Runners
 
@@ -309,6 +313,21 @@
 
 * [Curso de Inglês Grátis](http://www.cursodeinglesgratis.org)
 
+## Cursos & Books
+
+* [Casa do Código](https://www.casadocodigo.com.br/)
+* [CodeSchool](https://www.codeschool.com/courses)
+* [CodCast](https://codecasts.com.br/series?page=4)
+* [WesBos](https://courses.wesbos.com/account)
+* [Alura Cursos Online](https://github.com/alura-cursos)
+* [Coursera](https://www.coursera.org/?utm_medium=email&utm_source=recommendations&utm_campaign=recommendationsEmail%7Erecs_email_2017_01_08_17%3A32)
+
+## Utils
+
+* [Web Server Information - BrowserSpy.dk](http://browserspy.dk/webserver.php)
+* [CSS Stats](http://cssstats.com/stats?url=http%3A%2F%2Fnos.arq.br&ua=Browser%20Default)
+* [Critical Path CSS Generator](https://www.sitelocity.com/critical-path-css-generator?ref=frontendstash)
+
 ## Others
 
 * [Organize Favorits](https://raindrop.io)
@@ -327,6 +346,7 @@
 * [Devil May Cry 4](http://store.steampowered.com/app/45700/Devil_May_Cry_4/)
 * [Games on GitHub](https://github.com/leereilly/games)
 * [No Ping Tunnel](https://www.nptunnel.com/)
+* [MMORPJ Notícias](https://www.mmorpg.com/)
 
 ## Games Mobile
 
