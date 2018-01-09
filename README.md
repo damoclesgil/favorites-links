@@ -174,6 +174,7 @@
 * [Page Speed - Google](https://developers.google.com/speed/pagespeed/insights/)
 * [Dados - Importância da Otimização](https://wpostats.com/)
 * [Sitespeed.io](https://www.sitespeed.io/)
+* [Pingdom](https://tools.pingdom.com)
 * [Performance Challenge](https://www.smashingmagazine.com/2017/10/front-end-performance-challenge/)
 * [SPDY - Check](https://spdycheck.org/)
 * [HTTP2 Test Tool](https://tools.keycdn.com/http2-test)
@@ -242,6 +243,7 @@
 * [Zeit](https://zeit.co/now)
 * [Middle Man Deploy](https://github.com/middleman-contrib/middleman-deploy)
 * [Filezilla](https://filezilla-project.org/download.php?type=client)
+* [Heroku](https://www.heroku.com/)
 
 ## CMS
 
@@ -314,7 +316,7 @@
 * [Curso de Inglês Grátis](http://www.cursodeinglesgratis.org)
 
 ## Cursos & Books
-
+* [Quick Code](http://www.quickcode.co/)
 * [Casa do Código](https://www.casadocodigo.com.br/)
 * [CodeSchool](https://www.codeschool.com/courses)
 * [CodCast](https://codecasts.com.br/series?page=4)
@@ -334,6 +336,12 @@
 * [Octobox](https://octobox.io/)
 * [Simular Pesquisa no Google](https://lmgtfy.com/)
 * [Awesome Portfolios](https://github.com/iRaul/awesome-portfolios)
+
+## Games Plataform
+
+* [UBI](store.ubi.com/br/jogos-1/?lang=pt_BR)
+* [Origin](https://www.origin.com/bra/pt-br/store)
+* [Steam](http://store.steampowered.com/?l=portuguese)
 
 ## Games
 
