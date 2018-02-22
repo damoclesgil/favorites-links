@@ -100,6 +100,7 @@
 
 ## Fonts
 
+* [Estilzar Fontes](https://developers.google.com/fonts/docs/getting_started)
 * [Font Forge](http://fontforge.github.io/en-US/)
 * [Google Fonts](https://fonts.google.com/)
 * [Fontsquirrel](https://www.fontsquirrel.com/)
@@ -178,6 +179,7 @@
 * [Performance Challenge](https://www.smashingmagazine.com/2017/10/front-end-performance-challenge/)
 * [SPDY - Check](https://spdycheck.org/)
 * [HTTP2 Test Tool](https://tools.keycdn.com/http2-test)
+* [Respository Performance Web - Alura Sérgio Lopes](alura-cursos/performance-web-2)
 
 ## SEO
 
@@ -198,6 +200,7 @@
 
 ## Templates & Themes
 
+* [HTML 5 UP](https://html5up.net)
 * [Theme Forest](https://themeforest.net/)
 * [Template Monster](https://www.templatemonster.com/pt-br/)
 * [Code Canyon](http://codecanyon.net/)
@@ -205,6 +208,7 @@
 * [Wpeden](http://wpeden.com/)
 * [Theme snap](http://www.themesnap.com/)
 * [Creative Market](https://creativemarket.com/)
+* [Be Themes](themes.muffingroup.com/be/splash/?utm_source=codropscollective&utm_medium=content&utm_campaign=jan17)
 
 ## Extensions
 
@@ -336,12 +340,17 @@
 * [Octobox](https://octobox.io/)
 * [Simular Pesquisa no Google](https://lmgtfy.com/)
 * [Awesome Portfolios](https://github.com/iRaul/awesome-portfolios)
+* [HTML LINT](http://htmllint.github.io/)
+
+## Portfolios
+* [BR Bauen](http://brbauen.com/)
 
 ## Games Plataform
 
 * [UBI](store.ubi.com/br/jogos-1/?lang=pt_BR)
 * [Origin](https://www.origin.com/bra/pt-br/store)
 * [Steam](http://store.steampowered.com/?l=portuguese)
+* [Nuvem](https://secure.nuuvem.com/account/library)
 
 ## Games
 
@@ -361,3 +370,6 @@
 * [Lineage 2: Revolution](https://play.google.com/store/apps/details?id=com.netmarble.lin2ws)
 * [Lineage 2: Revolution - APK](http://www.androidappsgame.net/download/com.netmarble.lin2ws)
 * [HIT](https://play.google.com/store/apps/details?id=com.nexon.hit.global)
+
+## READING
+* [WebPack](https://www.sitepoint.com/bundle-static-site-webpack/)
