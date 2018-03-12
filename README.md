@@ -36,6 +36,8 @@
 * [Codrops](https://tympanus.net/codrops/css_reference/)
 * [MDN](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Reference)
 * [FlexBox](https://github.com/afonsopacifer/awesome-flexbox)
+* [FlexBox HTMLION](https://www.htmllion.com/css-flexbox.html)
+* [Floats](https://css-tricks.com/all-about-floats)
 * [CSS3 Maker](http://www.css3maker.com)
 * [Grid Layout](https://github.com/simoneas02/awesome-grid-layout)
 * [Grid By Example](https://gridbyexample.com/)
@@ -48,6 +50,7 @@
 * [CSS Cheat Sheet](https://adam-marsden.co.uk/css-cheat-sheet/)
 * [Reddit css](https://www.reddit.com/r/css/)
 * [GRID TOOLS](https://1stwebdesigner.com/free-css-grid-tools-resources/)
+* [Auto Prefixer, Support Browsers](https://autoprefixer.github.io)
 
 ## JS
 
@@ -159,6 +162,7 @@
 
 * [Code Beautify](https://codebeautify.org/)
 * [Prettier](https://prettier.io/)
+* [Minifier](https://www.minifier.org/)
 
 ## Optimization, Minify, Compress & Perfomance
 * [Tinypng - Minifiy PNG and JPG](https://tinypng.com/)
@@ -179,7 +183,7 @@
 * [Performance Challenge](https://www.smashingmagazine.com/2017/10/front-end-performance-challenge/)
 * [SPDY - Check](https://spdycheck.org/)
 * [HTTP2 Test Tool](https://tools.keycdn.com/http2-test)
-* [Respository Performance Web - Alura Sérgio Lopes](alura-cursos/performance-web-2)
+* [Respository Performance Web 2- Alura Sérgio Lopes](alura-cursos/performance-web-2)
 
 ## SEO
 
@@ -341,6 +345,7 @@
 * [Simular Pesquisa no Google](https://lmgtfy.com/)
 * [Awesome Portfolios](https://github.com/iRaul/awesome-portfolios)
 * [HTML LINT](http://htmllint.github.io/)
+* [Convert PDF to Word](https://smallpdf.com/pt/pdf-para-word)
 
 ## Portfolios
 * [BR Bauen](http://brbauen.com/)
@@ -373,3 +378,4 @@
 
 ## READING
 * [WebPack](https://www.sitepoint.com/bundle-static-site-webpack/)
+* [JAVASCRIPT MPJ](https://gist.github.com/mpj/c5ae804e576042b3287d)
