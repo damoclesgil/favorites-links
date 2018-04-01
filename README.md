@@ -27,6 +27,7 @@
 * [Web Tools Weekly](https://webtoolsweekly.com)
 * [Freecourses](https://freecourses.github.io/#/)
 * [Awesome Windows](https://github.com/Awesome-Windows/Awesome)
+* [Validar código W3 ORG](https://validator.w3.org/)
 
 ## CSS
 
@@ -51,6 +52,9 @@
 * [Reddit css](https://www.reddit.com/r/css/)
 * [GRID TOOLS](https://1stwebdesigner.com/free-css-grid-tools-resources/)
 * [Auto Prefixer, Support Browsers](https://autoprefixer.github.io)
+* [CSS FLEXBOX GENERATOR](https://www.htmllion.com/css-flexbox.html)
+* [30 seconds of css](https://atomiks.github.io/30-seconds-of-css/#truncate-text)
+* [CSS Sprite Generator](https://www.toptal.com/developers/css/sprite-generator)
 
 ## JS
 
@@ -132,6 +136,7 @@
 * [SVG View Windows Explorer](https://svgextension.codeplex.com/releases/view/118790)
 
 ## Colors
+
 * [Montar Paleta de Cores](http://ambiance.somethingjustlikethis.com/)
 * [Colour Loves](http://www.colourlovers.com)
 * [Color Mind](http://colormind.io/)
@@ -141,6 +146,12 @@
 * [Hex to RGB Conversion](http://www.rapidtables.com/convert/color/hex-to-rgb.htm)
 * [Tabela de Cores](http://erikasarti.net/html/tabela-cores/)
 * [ColorSpace](https://mycolor.space/)
+* [Guia Emocional das Cores](http://2.bp.blogspot.com/-xWOKbaMvGhI/UdYFqIqfaMI/AAAAAAAACZA/H5dg7VdshYA/s960/cores-criativas.jpg)
+* [Desgin Seeds](https://www.design-seeds.com/)
+* [Adobe Color CC](https://color.adobe.com/)
+
+## Plataforms
+* [WebFlow] (https://webflow.com/)
 
 ## Design
 
@@ -165,9 +176,13 @@
 * [Minifier](https://www.minifier.org/)
 
 ## Optimization, Minify, Compress & Perfomance
+
 * [Tinypng - Minifiy PNG and JPG](https://tinypng.com/)
+* [Kraken](https://kraken.io/web-interface)
 * [Convert PNG TO JPG](http://png2jpg.com)
 * [HTML, CSS and JS Minify](http://minifycode.com//)
+* [JSCompress](https://jscompress.com/)
+* [CSS Compressor](https://csscompressor.com/)
 * [Compressor.io](https://compressor.io/compress)
 * [Kraken](https://kraken.io/web-interface)
 * [Image Magick - Redimensionar Imagens](https://www.imagemagick.org/script/index.php)
@@ -347,8 +362,15 @@
 * [HTML LINT](http://htmllint.github.io/)
 * [Convert PDF to Word](https://smallpdf.com/pt/pdf-para-word)
 
-## Portfolios
+## Portfolios, Design & References
+
 * [BR Bauen](http://brbauen.com/)
+* [Degordian](https://academy.degordian.com/)
+* [Jumo](http://www.newjumoconcept.com/en/#ambiance-photos)
+* [Pablo the flamingo](https://pablotheflamingo.com/)
+* [Richards](http://www.richards.com.br/categoria/masculino-camisas?N=1823818327)
+* [Basic Agency](https://basicagency.com/)
+* [Maaemo Restaurant](https://maaemo.no/)
 
 ## Games Plataform
 
@@ -377,5 +399,6 @@
 * [HIT](https://play.google.com/store/apps/details?id=com.nexon.hit.global)
 
 ## READING
+
 * [WebPack](https://www.sitepoint.com/bundle-static-site-webpack/)
 * [JAVASCRIPT MPJ](https://gist.github.com/mpj/c5ae804e576042b3287d)
