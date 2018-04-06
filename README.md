@@ -198,7 +198,7 @@
 * [Performance Challenge](https://www.smashingmagazine.com/2017/10/front-end-performance-challenge/)
 * [SPDY - Check](https://spdycheck.org/)
 * [HTTP2 Test Tool](https://tools.keycdn.com/http2-test)
-* [Respository Performance Web 2- Alura Sérgio Lopes](alura-cursos/performance-web-2)
+* [Respository Performance Web 2- Alura Sérgio Lopes](https://github.com/alura-cursos/performance-web-2)
 
 ## SEO
 
@@ -259,6 +259,7 @@
 
 ## Deploy, UP Websites, FTP Servers
 
+* [Netlify](https://app.netlify.com/)
 * [We Deploy](https://wedeploy.com/)
 * [Google Cloud APP Engine](https://cloud.google.com/appengine/docs/standard/python/getting-started/hosting-a-static-website)
 * [Configure Cloud App Enine To Deploy](https://cloud.google.com/sdk/docs/managing-configurations)
