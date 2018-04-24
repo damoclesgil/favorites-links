@@ -146,6 +146,7 @@
 * [Hex to RGB Conversion](http://www.rapidtables.com/convert/color/hex-to-rgb.htm)
 * [Tabela de Cores](http://erikasarti.net/html/tabela-cores/)
 * [ColorSpace](https://mycolor.space/)
+* [Web Gradients](https://webgradients.com)
 * [Guia Emocional das Cores](http://2.bp.blogspot.com/-xWOKbaMvGhI/UdYFqIqfaMI/AAAAAAAACZA/H5dg7VdshYA/s960/cores-criativas.jpg)
 * [Desgin Seeds](https://www.design-seeds.com/)
 * [Adobe Color CC](https://color.adobe.com/)
@@ -199,6 +200,7 @@
 * [SPDY - Check](https://spdycheck.org/)
 * [HTTP2 Test Tool](https://tools.keycdn.com/http2-test)
 * [Respository Performance Web 2- Alura Sérgio Lopes](https://github.com/alura-cursos/performance-web-2)
+* [WebPagetest](https://www.webpagetest.org)
 
 ## SEO
 
@@ -362,6 +364,11 @@
 * [Awesome Portfolios](https://github.com/iRaul/awesome-portfolios)
 * [HTML LINT](http://htmllint.github.io/)
 * [Convert PDF to Word](https://smallpdf.com/pt/pdf-para-word)
+* [Online Facebook Video Downloader](https://fbvideodownload.spac)
+* [Histórico da Internet: Weyback Machine](Internet Archive: Wayback Machine)
+* [Plyr  - Customizador de vídeo HTML5](https://plyr.io)
+* [Isotope - Layout Modes](https://isotope.metafizzy.co/layout-modes.html)
+* [Gear Beast](https://br.gearbest.com/teclado-gamer-_gear/)
 
 ## Portfolios, Design & References
 
