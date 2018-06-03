@@ -55,6 +55,9 @@
 * [CSS FLEXBOX GENERATOR](https://www.htmllion.com/css-flexbox.html)
 * [30 seconds of css](https://atomiks.github.io/30-seconds-of-css/#truncate-text)
 * [CSS Sprite Generator](https://www.toptal.com/developers/css/sprite-generator)
+* [Animista net](http://animista.net)
+* [Spiriti app (Animar)](https://spiritapp.io/)
+* [Keyframes (Animar, Animação)](https://keyframes.app/)
 
 ## JS
 
@@ -69,6 +72,10 @@
 * [WTF JS](https://github.com/denysdovhan/wtfjs#-motivation)
 * [STYLE GUIDE AIRBNB](https://github.com/airbnb/javascript)
 * [Reddit JS](https://www.reddit.com/r/javascript/)
+* [EggHead io](https://egghead.io/)
+
+## VUEJS
+* [VUE JS AWESOME](https://github.com/vuejs/awesome-vue)
 
 ## TDD, Tests with JS
 
@@ -152,7 +159,7 @@
 * [Adobe Color CC](https://color.adobe.com/)
 
 ## Plataforms
-* [WebFlow] (https://webflow.com/)
+* [WebFlow](https://webflow.com/)
 
 ## Design
 
@@ -201,7 +208,7 @@
 * [HTTP2 Test Tool](https://tools.keycdn.com/http2-test)
 * [Respository Performance Web 2- Alura Sérgio Lopes](https://github.com/alura-cursos/performance-web-2)
 * [WebPagetest](https://www.webpagetest.org)
-
+* [Image convert JPG](https://image.online-convert.com/convert-to-jpg)
 ## SEO
 
 * [SEO Topper](https://github.com/gustavoquinalha/seotopper)
@@ -325,6 +332,8 @@
 
 ## VScode
 
+* [VS Code Icons](https://github.com/dhanishgajjar/vscode-icons/blob/master/README.md)
+* [Awesome VSCODE](https://github.com/viatsko/awesome-vscode)
 * [My Workspace](https://github.com/damoclesgil/workspace-settings)
 
 ## Browsers
@@ -365,10 +374,11 @@
 * [HTML LINT](http://htmllint.github.io/)
 * [Convert PDF to Word](https://smallpdf.com/pt/pdf-para-word)
 * [Online Facebook Video Downloader](https://fbvideodownload.spac)
-* [Histórico da Internet: Weyback Machine](Internet Archive: Wayback Machine)
+* [Histórico da Internet: Weyback Machine](http://archive.org/web/)
 * [Plyr  - Customizador de vídeo HTML5](https://plyr.io)
 * [Isotope - Layout Modes](https://isotope.metafizzy.co/layout-modes.html)
 * [Gear Beast](https://br.gearbest.com/teclado-gamer-_gear/)
+* [Not Found - 404 Page](https://kickpush.co/404/)
 
 ## Portfolios, Design & References
 
@@ -379,6 +389,7 @@
 * [Richards](http://www.richards.com.br/categoria/masculino-camisas?N=1823818327)
 * [Basic Agency](https://basicagency.com/)
 * [Maaemo Restaurant](https://maaemo.no/)
+* [Vinicius Velasco](https://viniciusvelasco.com.br/)
 
 ## Games Plataform
 
