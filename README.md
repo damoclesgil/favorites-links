@@ -76,6 +76,8 @@
 
 ## VUEJS
 * [VUE JS AWESOME](https://github.com/vuejs/awesome-vue)
+* [Dynamic Tempaltes](https://medium.com/scrumpy/dynamic-component-templates-with-vue-js-d9236ab183bb)
+* [Vue js Developers](https://vuejsdevelopers.com)
 
 ## TDD, Tests with JS
 
@@ -121,7 +123,7 @@
 * [@font-face Generator](https://transfonter.org/)
 * [Online Font Converter](https://onlinefontconverter.com/)
 
-## Vectors & Imagens
+## Vectors, Imagens & Mockups
 
 * [awesome-free-images](https://github.com/ronal2do/awesome-free-images)
 * [Mockups CSS](https://picturepan2.github.io/devices.css/)
@@ -133,6 +135,8 @@
 * [Fast Stone](http://www.faststone.org/FSViewerDownload.htm)
 * [Windows Explorer Preview PSD](http://www.luisaambros.com/blog/previa-em-miniatura-de-arquivos-psd-ai-pdf-eps-no-windows-explorer/)
 * [Redimensionar Imagem](https://www.iloveimg.com/pt/redimensionar-imagem)
+* [Mockup World](https://www.mockupworld.co/)
+* [Mystock](http://mystock.photos/)
 
 ## SVG
 
@@ -176,6 +180,7 @@
 * [Dribble](https://dribbble.com)
 * [Envato](https://elements.envato.com/)
 * [Moodilyapp](https://moodilyapp.com/index.html)
+* [Ecommerce Themes](https://www.pixelunion.net/services/)
 
 ## Beuftify Code, Format & Ident
 
@@ -225,6 +230,7 @@
 * [Sem Rush](https://pt.semrush.com/)
 * [Keyworld Tool](https://keywordtool.io/search/)
 * [Generator Sitemaps](https://www.xml-sitemaps.com/)
+* [Meta Description Caracteres Tool](http://nightbirdwebsolutions.com/tools/title-description-tag-free-counter-tool)
 
 ## Templates & Themes
 
