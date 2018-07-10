@@ -428,104 +428,104 @@
 * [Moodilyapp](https://moodilyapp.com/index.html)
 * [Ecommerce Themes](https://www.pixelunion.net/services/)
 
-https://visualhunt.com/
-https://www.pexels.com/
-http://epicantus.tumblr.com/
-http://kaboompics.com/
-https://www.shutterstock.com/
-https://stock.tookapic.com/
-http://jaymantri.com/
-http://snapwiresnaps.tumblr.com/
-http://freestocks.org/
-http://getrefe.tumblr.com/
-http://nos.twnsnd.co/
-https://picjumbo.com/
-http://superfamous.com/
-http://deathtothestockphoto.com/
-http://www.lifeofpix.com/
-http://search.creativecommons.org/
-https://morguefile.com/
-http://www.photl.com/
-https://photodune.net/
-http://littlevisuals.co/
-http://www.splitshire.com/
-http://negativespace.co/
-http://www.stockvault.net/
-http://www.gratisography.com/
-https://stocksnap.io/
-http://jeshoots.com/
-http://br.123rf.com/
-http://pixabay.com/
-http://cupcake.nilssonlee.se/
-http://www.uhdwallpapers.org/
-http://kaboompics.com/
-http://foodiesfeed.com/
-http://www.raumrot.com/10/
-https://us.fotolia.com/
-https://visualhunt.com/
-https://www.pexels.com/
-http://epicantus.tumblr.com/
-http://kaboompics.com/
-https://www.shutterstock.com/
-https://stock.tookapic.com/
-http://jaymantri.com/
-http://snapwiresnaps.tumblr.com/
-http://freestocks.org/
-http://getrefe.tumblr.com/
-http://nos.twnsnd.co/
-https://picjumbo.com/
-http://superfamous.com/
-http://deathtothestockphoto.com/
-http://www.lifeofpix.com/
-http://search.creativecommons.org/
-https://morguefile.com/
-http://www.photl.com/
-https://photodune.net/
-http://littlevisuals.co/
-http://www.splitshire.com/
-http://negativespace.co/
-http://www.stockvault.net/
-http://www.gratisography.com/
-https://unsplash.com/
-https://stocksnap.io/
-http://jeshoots.com/
-http://br.123rf.com/
-http://pixabay.com/
-http://cupcake.nilssonlee.se/
-http://www.uhdwallpapers.org/
-http://kaboompics.com/
-http://foodiesfeed.com/
-http://www.raumrot.com/10/
-http://jaymantri.com/
-https://www.pexels.com/
-http://epicantus.tumblr.com/
-http://kaboompics.com/
-http://mmtstock.com/
-https://stock.tookapic.com/photos?filter=free
-http://jaymantri.com/
-http://snapwiresnaps.tumblr.com/
-http://freestocks.org/
-http://getrefe.tumblr.com/
-http://nos.twnsnd.co/
-http://www.imcreator.com/free
-https://picjumbo.com/
-http://superfamous.com/
-http://deathtothestockphoto.com/
-http://www.lifeofpix.com/
-http://littlevisuals.co/
-http://www.splitshire.com/
-http://negativespace.co/
-http://www.gratisography.com/
-https://unsplash.com/
-https://stocksnap.io/
-http://jeshoots.com/
-http://pixabay.com/ 
-http://cupcake.nilssonlee.se/
-http://www.uhdwallpapers.org/
-http://kaboompics.com/
-http://foodiesfeed.com/
-http://www.raumrot.com/10/
-http://jaymantri.com/
+- https://visualhunt.com/
+- https://www.pexels.com/
+- http://epicantus.tumblr.com/
+- http://kaboompics.com/
+- https://www.shutterstock.com/
+- https://stock.tookapic.com/
+- http://jaymantri.com/
+- http://snapwiresnaps.tumblr.com/
+- http://freestocks.org/
+- http://getrefe.tumblr.com/
+- http://nos.twnsnd.co/
+- https://picjumbo.com/
+- http://superfamous.com/
+- http://deathtothestockphoto.com/
+- http://www.lifeofpix.com/
+- http://search.creativecommons.org/
+- https://morguefile.com/
+- http://www.photl.com/
+- https://photodune.net/
+- http://littlevisuals.co/
+- http://www.splitshire.com/
+- http://negativespace.co/
+- http://www.stockvault.net/
+- http://www.gratisography.com/
+- https://stocksnap.io/
+- http://jeshoots.com/
+- http://br.123rf.com/
+- http://pixabay.com/
+- http://cupcake.nilssonlee.se/
+- http://www.uhdwallpapers.org/
+- http://kaboompics.com/
+- http://foodiesfeed.com/
+- http://www.raumrot.com/10/
+- https://us.fotolia.com/
+- https://visualhunt.com/
+- https://www.pexels.com/
+- http://epicantus.tumblr.com/
+- http://kaboompics.com/
+- https://www.shutterstock.com/
+- https://stock.tookapic.com/
+- http://jaymantri.com/
+- http://snapwiresnaps.tumblr.com/
+- http://freestocks.org/
+- http://getrefe.tumblr.com/
+- http://nos.twnsnd.co/
+- https://picjumbo.com/
+- http://superfamous.com/
+- http://deathtothestockphoto.com/
+- http://www.lifeofpix.com/
+- http://search.creativecommons.org/
+- https://morguefile.com/
+- http://www.photl.com/
+- https://photodune.net/
+- http://littlevisuals.co/
+- http://www.splitshire.com/
+- http://negativespace.co/
+- http://www.stockvault.net/
+- http://www.gratisography.com/
+- https://unsplash.com/
+- https://stocksnap.io/
+- http://jeshoots.com/
+- http://br.123rf.com/
+- http://pixabay.com/
+- http://cupcake.nilssonlee.se/
+- http://www.uhdwallpapers.org/
+- http://kaboompics.com/
+- http://foodiesfeed.com/
+- http://www.raumrot.com/10/
+- http://jaymantri.com/
+- https://www.pexels.com/
+- http://epicantus.tumblr.com/
+- http://kaboompics.com/
+- http://mmtstock.com/
+- https://stock.tookapic.com/photos?filter=free
+- http://jaymantri.com/
+- http://snapwiresnaps.tumblr.com/
+- http://freestocks.org/
+- http://getrefe.tumblr.com/
+- http://nos.twnsnd.co/
+- http://www.imcreator.com/free
+- https://picjumbo.com/
+- http://superfamous.com/
+- http://deathtothestockphoto.com/
+- http://www.lifeofpix.com/
+- http://littlevisuals.co/
+- http://www.splitshire.com/
+- http://negativespace.co/
+- http://www.gratisography.com/
+- https://unsplash.com/
+- https://stocksnap.io/
+- http://jeshoots.com/
+- http://pixabay.com/ 
+- http://cupcake.nilssonlee.se/
+- http://www.uhdwallpapers.org/
+- http://kaboompics.com/
+- http://foodiesfeed.com/
+- http://www.raumrot.com/10/
+- http://jaymantri.com/
 
 ### Ferramentas Úteis
 
@@ -555,126 +555,126 @@ https://www.facebook.com/login.php…
 http://www.inovativabrasil.com.br/programa-de-aceleracao/…
 
 ### Mockups
-https://www.teehanlax.com/tools/iphone
-https://www.teehanlax.com/tools/ipad/
-http://www.premiumpixels.com
-http://www.fribbble.com/
-http://www.psdcovers.com/
-https://www.mockuuups.com/
-https://freebiesbug.com/
-https://marvelapp.com/
-https://uispace.net/
-http://dbfreebies.co/
-http://pt.365psd.com/
-https://pixelbuddha.net/
-https://creativevip.net/
-http://graphicburger.com/
+- https://www.teehanlax.com/tools/iphone
+- https://www.teehanlax.com/tools/ipad/
+- http://www.premiumpixels.com
+- http://www.fribbble.com/
+- http://www.psdcovers.com/
+- https://www.mockuuups.com/
+- https://freebiesbug.com/
+- https://marvelapp.com/
+- https://uispace.net/
+- http://dbfreebies.co/
+- http://pt.365psd.com/
+- https://pixelbuddha.net/
+- https://creativevip.net/
+- http://graphicburger.com/
 
 ### Banco de Imagens
-http://pt.freeimages.com/
-https://pixabay.com/
-https://unsplash.com/
-https://www.flickr.com/
-https://morguefile.com/
-http://www.rgbstock.com/
-http://www.stockvault.net/
-https://www.pexels.com/
-http://www.everystockphoto.com/
-https://olhares.uol.com.br/a-nossa-escolha
-http://www.freephotosbank.com/
-https://www.dreamstime.com/free-images_pg1
-http://www.freedigitalphotos.net/
-https://freerangestock.com/
+- http://pt.freeimages.com/
+- https://pixabay.com/
+- https://unsplash.com/
+- https://www.flickr.com/
+- https://morguefile.com/
+- http://www.rgbstock.com/
+- http://www.stockvault.net/
+- https://www.pexels.com/
+- http://www.everystockphoto.com/
+- https://olhares.uol.com.br/a-nossa-escolha
+- http://www.freephotosbank.com/
+- https://www.dreamstime.com/free-images_pg1
+- http://www.freedigitalphotos.net/
+- https://freerangestock.com/
 
 ### Vetores Grátis
-https://www.brandsoftheworld.com/
-http://br.freepik.com/
-https://logopond.com/
-https://seeklogo.com/
-https://www.vexels.com/
-https://www.vecteezy.com/
-http://www.vectorvalley.com/
-http://vector4free.com/
-http://coolvectors.com/
-http://www.vectorportal.com/
-http://www.fordesigner.com/maps_list/list2-1.htm
-https://www.vectorjunky.com/
-http://www.freevectors.net/
-http://www.keepdesigning.com/category/vectors/
+- https://www.brandsoftheworld.com/
+- http://br.freepik.com/
+- https://logopond.com/
+- https://seeklogo.com/
+- https://www.vexels.com/
+- https://www.vecteezy.com/
+- http://www.vectorvalley.com/
+- http://vector4free.com/
+- http://coolvectors.com/
+- http://www.vectorportal.com/
+- http://www.fordesigner.com/maps_list/list2-1.htm
+- https://www.vectorjunky.com/
+- http://www.freevectors.net/
+- http://www.keepdesigning.com/category/vectors/
 
 ### Ícones
-https://www.flaticon.com/
-https://www.iconfinder.com/
-http://everydayicons.jp/
-http://findicons.com/
-http://www.iconarchive.com/
-http://www.iconspedia.com/
-http://www.freeiconsweb.com/
+- https://www.flaticon.com/
+- https://www.iconfinder.com/
+- http://everydayicons.jp/
+- http://findicons.com/
+- http://www.iconarchive.com/
+- http://www.iconspedia.com/
+- http://www.freeiconsweb.com/
 
 ### Paletas
-http://www.0to255.com/
-http://www.colourco.de/
-http://www.pictaculous.com/
-http://web.colorotate.org/
-http://webcolourdata.com/
+- http://www.0to255.com/
+- http://www.colourco.de/
+- http://www.pictaculous.com/
+- http://web.colorotate.org/
+- http://webcolourdata.com/
 
 ### Patterns (padrões)
-http://www.colourlovers.com/
-http://pattern8.com/
-http://www.pixeldecor.com/patterns.shtml
-http://ava7patterns.com/
-http://everydayicons.jp/patterns.html
-http://www.noqta.it/dromoscopio/
-http://www.bgpatterns.com/
-http://www.dinpattern.com/
-http://www.patternhead.com/
-https://www.patterncooler.com/
+- http://www.colourlovers.com/
+- http://pattern8.com/
+- http://www.pixeldecor.com/patterns.shtml
+- http://ava7patterns.com/
+- http://everydayicons.jp/patterns.html
+- http://www.noqta.it/dromoscopio/
+- http://www.bgpatterns.com/
+- http://www.dinpattern.com/
+- http://www.patternhead.com/
+- https://www.patterncooler.com/
 
 ### Fontes
-http://www.dafont.com/pt/
-https://www.urbanfonts.com/
-http://www.1001freefonts.com/
-https://www.fontsquirrel.com/
-https://fonts2u.com/index.html
-http://www.actionfonts.com/
-http://www.fontspace.com/
-http://www.netfontes.com.br/
+- http://www.dafont.com/pt/
+- https://www.urbanfonts.com/
+- http://www.1001freefonts.com/
+- https://www.fontsquirrel.com/
+- https://fonts2u.com/index.html
+- http://www.actionfonts.com/
+- http://www.fontspace.com/
+- http://www.netfontes.com.br/
 
 ### Vídeos (animação, chroma key, background)
-https://www.videezy.com/
-https://www.videvo.net/
-http://www.xstockvideo.com/
-http://www.clipcanvas.com/free-footage
-https://www.cutestockfootage.com/
-http://www.free-hd-footage.com/
-http://www.motionelements.com/
-http://www.ignitemotion.com/
-https://www.nasa.gov/…/hd/HDGalleryCollection_archive_1.html
-https://www.youtube.com/user/freeanimalvideo/videos
+- https://www.videezy.com/
+- https://www.videvo.net/
+- http://www.xstockvideo.com/
+- http://www.clipcanvas.com/free-footage
+- https://www.cutestockfootage.com/
+- http://www.free-hd-footage.com/
+- http://www.motionelements.com/
+- http://www.ignitemotion.com/
+- https://www.nasa.gov/…/hd/HDGalleryCollection_archive_1.html
+- https://www.youtube.com/user/freeanimalvideo/videos
 
 ### Audios (Efeitos FX, background)
-http://freesound.org/
-http://www.audiomicro.com
-http://www.freesfx.co.uk/
-http://soundbible.com/
-http://www.pacdv.com/sounds/
-http://www.flashkit.com/soundfx/
-https://www.soundjay.com/
-http://www.soundgator.com/
-http://99sounds.org/free-sound-effects/
+- http://freesound.org/
+- http://www.audiomicro.com
+- http://www.freesfx.co.uk/
+- http://soundbible.com/
+- http://www.pacdv.com/sounds/
+- http://www.flashkit.com/soundfx/
+- https://www.soundjay.com/
+- http://www.soundgator.com/
+- http://99sounds.org/free-sound-effects/
 
 ### Melhores Gráficas Online
-https://www.cartoesmaisbarato.com.br/
-https://www.printi.com.br/
-https://www.360imprimir.com.br
-https://www.graficatx8.com.br/graficatx8/home/
-https://www.futuraimbativel.com/loja/home_loja.aspx
-https://www.zapgrafica.com.br/loja/home
-https://www.lojagraficaeskenazi.com.br/
-http://www.edigrafica.com.br/
-https://www.atualcard.com.br/
-https://www.papira.com.br/
-https://eurocartoes.com.br/
-https://www.paulistacartoes.com.br/
-http://www.graficagazetasp.com.br/
-https://www.grafix.com.br/
+- https://www.cartoesmaisbarato.com.br/
+- https://www.printi.com.br/
+- https://www.360imprimir.com.br
+- https://www.graficatx8.com.br/graficatx8/home/
+- https://www.futuraimbativel.com/loja/home_loja.aspx
+- https://www.zapgrafica.com.br/loja/home
+- https://www.lojagraficaeskenazi.com.br/
+- http://www.edigrafica.com.br/
+- https://www.atualcard.com.br/
+- https://www.papira.com.br/
+- https://eurocartoes.com.br/
+- https://www.paulistacartoes.com.br/
+- http://www.graficagazetasp.com.br/
+- https://www.grafix.com.br/
