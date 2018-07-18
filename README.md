@@ -55,9 +55,6 @@
 * [CSS FLEXBOX GENERATOR](https://www.htmllion.com/css-flexbox.html)
 * [30 seconds of css](https://atomiks.github.io/30-seconds-of-css/#truncate-text)
 * [CSS Sprite Generator](https://www.toptal.com/developers/css/sprite-generator)
-* [Animista net](http://animista.net)
-* [Spiriti app (Animar)](https://spiritapp.io/)
-* [Keyframes (Animar, Animação)](https://keyframes.app/)
 
 ## JS
 
@@ -73,6 +70,13 @@
 * [STYLE GUIDE AIRBNB](https://github.com/airbnb/javascript)
 * [Reddit JS](https://www.reddit.com/r/javascript/)
 * [EggHead io](https://egghead.io/)
+
+## Animção, Interação com site, Libs de Animação, Animation
+* [Popmotion.io](https://popmotion.io)
+* [Spiriti app (Animar)](https://spiritapp.io/)
+* [Keyframes (Animar, Animação)](https://keyframes.app/)
+* [Animista net](http://animista.net)
+* [10 libs animtion js](https://hackernoon.com/10-javascript-animation-libraries-to-follow-in-2018-50ff1d905f43)
 
 ## VUEJS
 * [VUE JS AWESOME](https://github.com/vuejs/awesome-vue)
