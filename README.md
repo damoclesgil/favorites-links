@@ -127,7 +127,7 @@
 * [@font-face Generator](https://transfonter.org/)
 * [Online Font Converter](https://onlinefontconverter.com/)
 
-## Vectors, Imagens & Mockups
+## Vectors, Design, Imagens & Mockups
 
 * [awesome-free-images](https://github.com/ronal2do/awesome-free-images)
 * [Mockups CSS](https://picturepan2.github.io/devices.css/)
@@ -141,6 +141,7 @@
 * [Redimensionar Imagem](https://www.iloveimg.com/pt/redimensionar-imagem)
 * [Mockup World](https://www.mockupworld.co/)
 * [Mystock](http://mystock.photos/)
+* [UpLabs](https://www.uplabs.com)
 
 ## SVG
 
@@ -177,6 +178,7 @@
 
 ## Optimization, Minify, Compress & Perfomance
 
+* [Addy Osmani Medium - The Cost of Javascript](https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4)
 * [Tinypng - Minifiy PNG and JPG](https://tinypng.com/)
 * [Kraken](https://kraken.io/web-interface)
 * [Convert PNG TO JPG](http://png2jpg.com)
@@ -201,6 +203,8 @@
 * [Respository Performance Web 2- Alura Sérgio Lopes](https://github.com/alura-cursos/performance-web-2)
 * [WebPagetest](https://www.webpagetest.org)
 * [Image convert JPG](https://image.online-convert.com/convert-to-jpg)
+* [HTTP Archive](https://httparchive.org)
+* [Webpack Training Project](https://github.com/GoogleChromeLabs/webpack-training-project)
 
 ## SEO
 
@@ -254,6 +258,7 @@
 * [Identifay technology on WebSites](https://wappalyzer.com/)
 * [Site mod.io](https://sitemod.io/)
 * [Wappalyzer](https://www.google.com.br/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiL5sDD5oTYAhXLGZAKHTaDBbMQFggpMAA&url=https%3A%2F%2Fchrome.google.com%2Fwebstore%2Fdetail%2Fwappalyzer%2Fgppongmhjkpfnbhagpmjfkannfbllamg%3Fhl%3Den&usg=AOvVaw3_UVGEz8V7Cdtgjy4W3GSO)
+* [Copy CSS - csscan](https://github.com/guivr/cssscan)
 
 ## Marketing
 
@@ -311,9 +316,10 @@
 
 * [Intercom](https://www.intercom.com/pt-BR/)
 
-## Maps
+## Maps, Mapa, Map
 
 * [Snazzy Maps](https://snazzymaps.com/)
+* [MapBox](https://www.mapbox.com/maps/streets/)
 
 ## Boilerplates
 
