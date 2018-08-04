@@ -73,10 +73,14 @@
 
 ## Animção, Interação com site, Libs de Animação, Animation
 * [Popmotion.io](https://popmotion.io)
+* [Greensock](https://greensock.com/learning)
 * [Spiriti app (Animar)](https://spiritapp.io/)
 * [Keyframes (Animar, Animação)](https://keyframes.app/)
 * [Animista net](http://animista.net)
 * [10 libs animtion js](https://hackernoon.com/10-javascript-animation-libraries-to-follow-in-2018-50ff1d905f43)
+
+### Scroll, Barra de Rolagem
+* [Scroll Suave](https://codepen.io/origamid/pen/eKGvdo)
 
 ## VUEJS
 * [VUE JS AWESOME](https://github.com/vuejs/awesome-vue)
@@ -200,11 +204,10 @@
 * [Performance Challenge](https://www.smashingmagazine.com/2017/10/front-end-performance-challenge/)
 * [SPDY - Check](https://spdycheck.org/)
 * [HTTP2 Test Tool](https://tools.keycdn.com/http2-test)
-* [Respository Performance Web 2- Alura Sérgio Lopes](https://github.com/alura-cursos/performance-web-2)
 * [WebPagetest](https://www.webpagetest.org)
 * [Image convert JPG](https://image.online-convert.com/convert-to-jpg)
 * [HTTP Archive](https://httparchive.org)
-* [Webpack Training Project](https://github.com/GoogleChromeLabs/webpack-training-project)
+* [Webpack Training Project Google](https://github.com/GoogleChromeLabs/webpack-training-project)
 
 ## SEO
 
@@ -350,7 +353,7 @@
 
 * [Curso de Inglês Grátis](http://www.cursodeinglesgratis.org)
 
-## Cursos & Books
+## Cursos, Books e Repositorios de Cursos
 * [Quick Code](http://www.quickcode.co/)
 * [Casa do Código](https://www.casadocodigo.com.br/)
 * [CodeSchool](https://www.codeschool.com/courses)
@@ -358,6 +361,8 @@
 * [WesBos](https://courses.wesbos.com/account)
 * [Alura Cursos Online](https://github.com/alura-cursos)
 * [Coursera](https://www.coursera.org/?utm_medium=email&utm_source=recommendations&utm_campaign=recommendationsEmail%7Erecs_email_2017_01_08_17%3A32)
+* [Web Moderno](https://github.com/cod3rcursos/web-moderno/)
+* [Respository Performance Web 2- Alura Sérgio Lopes](https://github.com/alura-cursos/performance-web-2)
 
 ## Utils
 
