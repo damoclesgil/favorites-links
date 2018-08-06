@@ -55,6 +55,7 @@
 * [CSS FLEXBOX GENERATOR](https://www.htmllion.com/css-flexbox.html)
 * [30 seconds of css](https://atomiks.github.io/30-seconds-of-css/#truncate-text)
 * [CSS Sprite Generator](https://www.toptal.com/developers/css/sprite-generator)
+* [RESET CSS](https://meyerweb.com/eric/tools/css/reset/)
 
 ## JS
 
