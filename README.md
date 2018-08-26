@@ -40,8 +40,6 @@
 * [FlexBox HTMLION](https://www.htmllion.com/css-flexbox.html)
 * [Floats](https://css-tricks.com/all-about-floats)
 * [CSS3 Maker](http://www.css3maker.com)
-* [Grid Layout](https://github.com/simoneas02/awesome-grid-layout)
-* [Grid By Example](https://gridbyexample.com/)
 * [Wait Animate](http://waitanimate.wstone.io/#!/)
 * [PX TO REM](https://quayzar.com/wordpress/pixels-to-rem-calculator/)
 * [Awesome CSS](https://github.com/sotayamashita/awesome-css)
@@ -50,12 +48,17 @@
 * [Bootstrap Cheatsheet](https://hackerthemes.com/bootstrap-cheatsheet/)
 * [CSS Cheat Sheet](https://adam-marsden.co.uk/css-cheat-sheet/)
 * [Reddit css](https://www.reddit.com/r/css/)
-* [GRID TOOLS](https://1stwebdesigner.com/free-css-grid-tools-resources/)
 * [Auto Prefixer, Support Browsers](https://autoprefixer.github.io)
-* [CSS FLEXBOX GENERATOR](https://www.htmllion.com/css-flexbox.html)
 * [30 seconds of css](https://atomiks.github.io/30-seconds-of-css/#truncate-text)
 * [CSS Sprite Generator](https://www.toptal.com/developers/css/sprite-generator)
 * [RESET CSS](https://meyerweb.com/eric/tools/css/reset/)
+
+### GRID CSS e FLEXBOX
+* [GRID TOOLS](https://1stwebdesigner.com/free-css-grid-tools-resources/)
+* [GRID MALVEN](http://grid.malven.co/)
+* [Grid Layout](https://github.com/simoneas02/awesome-grid-layout)
+* [Grid By Example](https://gridbyexample.com/)
+* [CSS FLEXBOX GENERATOR](https://www.htmllion.com/css-flexbox.html)
 
 ## JS
 
@@ -113,16 +116,6 @@
 * [Browserify](https://www.npmjs.com/package/browserify)
 * [Gulp Autoprefixer](https://www.npmjs.com/package/gulp-autoprefixer)
 
-## Icons
-
-* [Icons 8](https://icons8.com/icon/new-icons/all)
-* [Flat Icon](https://www.flaticon.com/)
-* [Icomoon - Icon To Font Converter](https://icomoon.io/)
-* [Iconic Font](https://iconmonstr.com/iconicfont/)
-* [Material Icons](https://materialdesignicons.com/)
-* [Ico Converter](https://www.icoconverter.com/)
-* [Favicon Geneartor](https://realfavicongenerator.net/)
-
 ## Fonts
 
 * [Estilzar Fontes](https://developers.google.com/fonts/docs/getting_started)
@@ -132,8 +125,14 @@
 * [@font-face Generator](https://transfonter.org/)
 * [Online Font Converter](https://onlinefontconverter.com/)
 
-## Vectors, Design, Imagens & Mockups
-
+## Icons, Vectors, Design, Imagens & Mockups
+* [Icons 8](https://icons8.com/icon/new-icons/all)
+* [Flat Icon](https://www.flaticon.com/)
+* [Icomoon - Icon To Font Converter](https://icomoon.io/)
+* [Iconic Font](https://iconmonstr.com/iconicfont/)
+* [Material Icons](https://materialdesignicons.com/)
+* [Ico Converter](https://www.icoconverter.com/)
+* [Favicon Geneartor](https://realfavicongenerator.net/)
 * [awesome-free-images](https://github.com/ronal2do/awesome-free-images)
 * [Mockups CSS](https://picturepan2.github.io/devices.css/)
 * [Free Vectors - Freepik](http://br.freepik.com/)
@@ -280,6 +279,10 @@
 * [Middle Man Deploy](https://github.com/middleman-contrib/middleman-deploy)
 * [Filezilla](https://filezilla-project.org/download.php?type=client)
 * [Heroku](https://www.heroku.com/)
+
+## DEVICES
+* [Material Devices](https://material.io/tools/devices/)
+* [Blisk](https://blisk.io/devices)
 
 ## CMS
 
