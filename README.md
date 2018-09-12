@@ -301,6 +301,19 @@
 * [Contact Form 7](https://wordpress.org/plugins/contact-form-7/)
 * [Smart Slider 3](https://smartslider3.com/?utm_source=codrops&utm_medium=collective&utm_campaign=slider)
 * [HX Tuttors Tutorial](https://www.youtube.com/watch?v=Roz4nx5bcmU&list=PL2NLqGvZxQu1V9cuzSOPpZo2uJhT7SGqZ&index=4)
+* [Underscores](https://underscores.me/)
+* [UnderssTRAP](https://understrap.com/)
+* [JOINSTWP](http://jointswp.com/)
+* [Roots.io](https://roots.io/sage/)
+* [wpteste.io](http://wptest.io/)
+* [giftospeed](https://www.giftofspeed.com/gzip-test/)
+
+## Lorem Ipsums
+
+* [Dilmês Ipsum](http://www.dilmesipsum.com.br/)
+* [Lorem Action](http://loremaction.com/)
+* [Bolsonaro Ipsum](https://domalex.github.io/bolsonaroipsum/)
+* [Trump Ipsum](http://www.trumpipsum.org/)
 
 ## Task Runners
 
@@ -346,6 +359,7 @@
 ## Browsers
 
 * [Firefox Quantum](https://www.mozilla.org/en-US/firefox/quantum/)
+* [Brave](https://brave.com/)
 
 ## Podcasts
 
@@ -388,6 +402,7 @@
 * [Isotope - Layout Modes](https://isotope.metafizzy.co/layout-modes.html)
 * [Gear Beast](https://br.gearbest.com/teclado-gamer-_gear/)
 * [Not Found - 404 Page](https://kickpush.co/404/)
+* [Programming Fonts](https://github.com/hbin/top-programming-fonts)
 
 ## Portfolios, Design & References
 
@@ -425,6 +440,12 @@
 * [Lineage 2: Revolution](https://play.google.com/store/apps/details?id=com.netmarble.lin2ws)
 * [Lineage 2: Revolution - APK](http://www.androidappsgame.net/download/com.netmarble.lin2ws)
 * [HIT](https://play.google.com/store/apps/details?id=com.nexon.hit.global)
+
+## Monster Hunter: World
+* [Wiki - Monster Hunter](https://monsterhunterworld.wiki.fextralife.com/Monster+Hunter+World+Wiki)
+* [Canal Monster Hunter](https://www.youtube.com/channel/UCQPobU9ExOgjOdYnNXkiuww)
+* [Build - Bow - Português](https://www.youtube.com/watch?v=MHR88g6QGAI)
+* [Build - Bow - Inglês](https://www.youtube.com/watch?v=aeR6WvkfQEI)
 
 ## READING
 
