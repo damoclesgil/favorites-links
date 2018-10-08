@@ -404,6 +404,11 @@
 * [Gear Beast](https://br.gearbest.com/teclado-gamer-_gear/)
 * [Not Found - 404 Page](https://kickpush.co/404/)
 * [Programming Fonts](https://github.com/hbin/top-programming-fonts)
+* [Remover Fundo imagem com GIMP](https://www.youtube.com/watch?v=75o7S1TjgWA)
+* [We Transfer - Transferir arquivos email](https://wetransfer.com/)
+* [NewCpu Coins](https://newcpucoins.com/)
+* [DCG - Digital Currency Group](https://dcg.co/)
+* [Domains .io](https://domaintyper.com/top-websites/most-popular-websites-with-io-domain/page/1)
 
 ## Portfolios, Design & References
 
@@ -452,6 +457,11 @@
 
 * [WebPack](https://www.sitepoint.com/bundle-static-site-webpack/)
 * [JAVASCRIPT MPJ](https://gist.github.com/mpj/c5ae804e576042b3287d)
+
+## Investiment Platform
+
+* [NasDaq](http://business.nasdaq.com/trade/index.html)
+* [XP Investimentos](https://investimentos.xpi.com.br/)
 
 # Design
 * [Resources Sites](https://css-tricks.com/design-resource-sites/)
