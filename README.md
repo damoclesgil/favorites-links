@@ -28,6 +28,7 @@
 * [Freecourses](https://freecourses.github.io/#/)
 * [Awesome Windows](https://github.com/Awesome-Windows/Awesome)
 * [Validar código W3 ORG](https://validator.w3.org/)
+* [Frontend Cheatsheets](https://medium.freecodecamp.org/modern-frontend-hacking-cheatsheets-df9c2566c72a)
 
 ## CSS
 
@@ -36,8 +37,6 @@
 * [Drafts CSSWG](https://github.com/w3c/csswg-drafts)
 * [Codrops](https://tympanus.net/codrops/css_reference/)
 * [MDN](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Reference)
-* [FlexBox](https://github.com/afonsopacifer/awesome-flexbox)
-* [FlexBox HTMLION](https://www.htmllion.com/css-flexbox.html)
 * [Floats](https://css-tricks.com/all-about-floats)
 * [CSS3 Maker](http://www.css3maker.com)
 * [Wait Animate](http://waitanimate.wstone.io/#!/)
@@ -54,11 +53,13 @@
 * [RESET CSS](https://meyerweb.com/eric/tools/css/reset/)
 
 ### GRID CSS e FLEXBOX
+* [FlexBox](https://github.com/afonsopacifer/awesome-flexbox)
+* [FlexBox HTMLION](https://www.htmllion.com/css-flexbox.html)
 * [GRID TOOLS](https://1stwebdesigner.com/free-css-grid-tools-resources/)
 * [GRID MALVEN](http://grid.malven.co/)
 * [Grid Layout](https://github.com/simoneas02/awesome-grid-layout)
 * [Grid By Example](https://gridbyexample.com/)
-* [CSS FLEXBOX GENERATOR](https://www.htmllion.com/css-flexbox.html)
+* [Flexbox grid](http://flexboxgrid.com/)
 
 ## JS
 
@@ -90,6 +91,8 @@
 * [VUE JS AWESOME](https://github.com/vuejs/awesome-vue)
 * [Dynamic Tempaltes](https://medium.com/scrumpy/dynamic-component-templates-with-vue-js-d9236ab183bb)
 * [Vue js Developers](https://vuejsdevelopers.com)
+* [Vue Content Loaderr](https://github.com/egoist/vue-content-loader)
+* [Tools for Vue](https://blog.bitsrc.io/5-tools-for-faster-vue-js-app-development-ad7eda1ee6a8)
 
 ## TDD, Tests with JS
 
@@ -150,6 +153,7 @@
 ## SVG
 
 * [Optimize SVG - SVGOMG](https://jakearchibald.github.io/svgomg/)
+* [Squoosh](https://squoosh.app/)
 * [SVGCuts](https://www.svgcuts.com/)
 * [Slide by Sarah Drasner : svg-can-do-that](http://slides.com/sdrasner/svg-can-do-that#/)
 * [Guide SVG - CSS-Tricks](https://css-tricks.com/guide-svg-animations-smil/)
@@ -382,7 +386,7 @@
 * [Coursera](https://www.coursera.org/?utm_medium=email&utm_source=recommendations&utm_campaign=recommendationsEmail%7Erecs_email_2017_01_08_17%3A32)
 * [Web Moderno](https://github.com/cod3rcursos/web-moderno/)
 * [Respository Performance Web 2- Alura Sérgio Lopes](https://github.com/alura-cursos/performance-web-2)
-
+* [Node JS - No NPM](https://courseclub.net/pirple-the-node-js-master-class-no-frameworks-no-npm-no-dependencies/)
 ## Utils
 
 * [Web Server Information - BrowserSpy.dk](http://browserspy.dk/webserver.php)
