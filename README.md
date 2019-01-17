@@ -77,6 +77,7 @@
 * [STYLE GUIDE AIRBNB](https://github.com/airbnb/javascript)
 * [Reddit JS](https://www.reddit.com/r/javascript/)
 * [EggHead io](https://egghead.io/)
+* [Code This not that js](https://github.com/codediodeio/code-this-not-that-js)
 
 ## Animção, Interação com site, Libs de Animação, Animation
 
@@ -98,6 +99,9 @@
 * [Vue js Developers](https://vuejsdevelopers.com)
 * [Vue Content Loaderr](https://github.com/egoist/vue-content-loader)
 * [Tools for Vue](https://blog.bitsrc.io/5-tools-for-faster-vue-js-app-development-ad7eda1ee6a8)
+* [THEME - Vuesax](https://lusaxweb.github.io/vuesax/)
+* [THEME - Vue Dark Mode](https://www.vuedarkmode.com/#fieldToggle)
+* [Vue authentication](https://github.com/sqreen/vue-authentication-example/tree/master/src/store)
 
 ## TDD, Tests with JS
 
@@ -148,9 +152,7 @@
 * [Banco de Imagens - Shutterstock](https://www.shutterstock.com/pt/)
 * [Free Vectors - Vecteezy](https://www.vecteezy.com/)
 * [Unsplash](https://unsplash.com/collections)
-* [Windows 10 - Themes](http://www.themeraider.com/)
 * [Fast Stone](http://www.faststone.org/FSViewerDownload.htm)
-* [Windows Explorer Preview PSD](http://www.luisaambros.com/blog/previa-em-miniatura-de-arquivos-psd-ai-pdf-eps-no-windows-explorer/)
 * [Redimensionar Imagem](https://www.iloveimg.com/pt/redimensionar-imagem)
 * [Mockup World](https://www.mockupworld.co/)
 * [Mystock](http://mystock.photos/)
@@ -163,7 +165,14 @@
 * [SVGCuts](https://www.svgcuts.com/)
 * [Slide by Sarah Drasner : svg-can-do-that](http://slides.com/sdrasner/svg-can-do-that#/)
 * [Guide SVG - CSS-Tricks](https://css-tricks.com/guide-svg-animations-smil/)
-* [SVG View Windows Explorer](https://svgextension.codeplex.com/releases/view/118790)
+
+## Windows
+
+* [Ninite](https://ninite.com/)
+* [SVG View Windows Explorer 1](https://svgextension.codeplex.com/releases/view/118790)
+* [SVG View Windows Explorer 2](https://github.com/maphew/svg-explorer-extension/releases/)
+* [Windows Explorer Preview PSD](http://www.luisaambros.com/blog/previa-em-miniatura-de-arquivos-psd-ai-pdf-eps-no-windows-explorer/)
+* [Windows 10 - Themes](http://www.themeraider.com/)
 
 ## Colors
 
