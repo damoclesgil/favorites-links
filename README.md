@@ -19,6 +19,7 @@
 * [David Wlash](https://davidwalsh.name/)
 * [Cook for Web](http://www.cookforweb.com/web-design/)
 * [Una](https://una.im/)
+* [Cod3rcursos](https://github.com/cod3rcursos)
 * [Awesome List](https://github.com/sindresorhus/awesome#front-end-development)
 * [Iam Steve](https://iamsteve.me/)
 * [Info Q](https://www.infoq.com/br)
@@ -53,6 +54,7 @@
 * [RESET CSS](https://meyerweb.com/eric/tools/css/reset/)
 
 ### GRID CSS e FLEXBOX
+
 * [FlexBox](https://github.com/afonsopacifer/awesome-flexbox)
 * [FlexBox HTMLION](https://www.htmllion.com/css-flexbox.html)
 * [GRID TOOLS](https://1stwebdesigner.com/free-css-grid-tools-resources/)
@@ -77,6 +79,7 @@
 * [EggHead io](https://egghead.io/)
 
 ## Animção, Interação com site, Libs de Animação, Animation
+
 * [Popmotion.io](https://popmotion.io)
 * [Greensock](https://greensock.com/learning)
 * [Spiriti app (Animar)](https://spiritapp.io/)
@@ -85,9 +88,11 @@
 * [10 libs animtion js](https://hackernoon.com/10-javascript-animation-libraries-to-follow-in-2018-50ff1d905f43)
 
 ### Scroll, Barra de Rolagem
+
 * [Scroll Suave](https://codepen.io/origamid/pen/eKGvdo)
 
 ## VUEJS
+
 * [VUE JS AWESOME](https://github.com/vuejs/awesome-vue)
 * [Dynamic Tempaltes](https://medium.com/scrumpy/dynamic-component-templates-with-vue-js-d9236ab183bb)
 * [Vue js Developers](https://vuejsdevelopers.com)
@@ -129,6 +134,7 @@
 * [Online Font Converter](https://onlinefontconverter.com/)
 
 ## Icons, Vectors, Design, Imagens & Mockups
+
 * [Icons 8](https://icons8.com/icon/new-icons/all)
 * [Flat Icon](https://www.flaticon.com/)
 * [Icomoon - Icon To Font Converter](https://icomoon.io/)
@@ -377,6 +383,7 @@
 * [Curso de Inglês Grátis](http://www.cursodeinglesgratis.org)
 
 ## Cursos, Books e Repositorios de Cursos
+
 * [Quick Code](http://www.quickcode.co/)
 * [Casa do Código](https://www.casadocodigo.com.br/)
 * [CodeSchool](https://www.codeschool.com/courses)
@@ -387,6 +394,7 @@
 * [Web Moderno](https://github.com/cod3rcursos/web-moderno/)
 * [Respository Performance Web 2- Alura Sérgio Lopes](https://github.com/alura-cursos/performance-web-2)
 * [Node JS - No NPM](https://courseclub.net/pirple-the-node-js-master-class-no-frameworks-no-npm-no-dependencies/)
+
 ## Utils
 
 * [Web Server Information - BrowserSpy.dk](http://browserspy.dk/webserver.php)
@@ -452,6 +460,7 @@
 * [HIT](https://play.google.com/store/apps/details?id=com.nexon.hit.global)
 
 ## Monster Hunter: World
+
 * [Wiki - Monster Hunter](https://monsterhunterworld.wiki.fextralife.com/Monster+Hunter+World+Wiki)
 * [Canal Monster Hunter](https://www.youtube.com/channel/UCQPobU9ExOgjOdYnNXkiuww)
 * [Build - Bow - Português](https://www.youtube.com/watch?v=MHR88g6QGAI)
@@ -467,7 +476,8 @@
 * [NasDaq](http://business.nasdaq.com/trade/index.html)
 * [XP Investimentos](https://investimentos.xpi.com.br/)
 
-# Design
+## Design
+
 * [Resources Sites](https://css-tricks.com/design-resource-sites/)
 * [UXPin](https://www.uxpin.com/studio/ebooks/)
 * [Design Modo](https://designmodo.com/)
@@ -483,133 +493,52 @@
 * [Moodilyapp](https://moodilyapp.com/index.html)
 * [Ecommerce Themes](https://www.pixelunion.net/services/)
 
-- https://visualhunt.com/
-- https://www.pexels.com/
-- http://epicantus.tumblr.com/
-- http://kaboompics.com/
-- https://www.shutterstock.com/
-- https://stock.tookapic.com/
-- http://jaymantri.com/
-- http://snapwiresnaps.tumblr.com/
-- http://freestocks.org/
-- http://getrefe.tumblr.com/
-- http://nos.twnsnd.co/
-- https://picjumbo.com/
-- http://superfamous.com/
-- http://deathtothestockphoto.com/
-- http://www.lifeofpix.com/
-- http://search.creativecommons.org/
-- https://morguefile.com/
-- http://www.photl.com/
-- https://photodune.net/
-- http://littlevisuals.co/
-- http://www.splitshire.com/
-- http://negativespace.co/
-- http://www.stockvault.net/
-- http://www.gratisography.com/
-- https://stocksnap.io/
-- http://jeshoots.com/
-- http://br.123rf.com/
-- http://pixabay.com/
-- http://cupcake.nilssonlee.se/
-- http://www.uhdwallpapers.org/
-- http://kaboompics.com/
-- http://foodiesfeed.com/
-- http://www.raumrot.com/10/
-- https://us.fotolia.com/
-- https://visualhunt.com/
-- https://www.pexels.com/
-- http://epicantus.tumblr.com/
-- http://kaboompics.com/
-- https://www.shutterstock.com/
-- https://stock.tookapic.com/
-- http://jaymantri.com/
-- http://snapwiresnaps.tumblr.com/
-- http://freestocks.org/
-- http://getrefe.tumblr.com/
-- http://nos.twnsnd.co/
-- https://picjumbo.com/
-- http://superfamous.com/
-- http://deathtothestockphoto.com/
-- http://www.lifeofpix.com/
-- http://search.creativecommons.org/
-- https://morguefile.com/
-- http://www.photl.com/
-- https://photodune.net/
-- http://littlevisuals.co/
-- http://www.splitshire.com/
-- http://negativespace.co/
-- http://www.stockvault.net/
-- http://www.gratisography.com/
-- https://unsplash.com/
-- https://stocksnap.io/
-- http://jeshoots.com/
-- http://br.123rf.com/
-- http://pixabay.com/
-- http://cupcake.nilssonlee.se/
-- http://www.uhdwallpapers.org/
-- http://kaboompics.com/
-- http://foodiesfeed.com/
-- http://www.raumrot.com/10/
-- http://jaymantri.com/
-- https://www.pexels.com/
-- http://epicantus.tumblr.com/
-- http://kaboompics.com/
-- http://mmtstock.com/
-- https://stock.tookapic.com/photos?filter=free
-- http://jaymantri.com/
-- http://snapwiresnaps.tumblr.com/
-- http://freestocks.org/
-- http://getrefe.tumblr.com/
-- http://nos.twnsnd.co/
-- http://www.imcreator.com/free
-- https://picjumbo.com/
-- http://superfamous.com/
-- http://deathtothestockphoto.com/
-- http://www.lifeofpix.com/
-- http://littlevisuals.co/
-- http://www.splitshire.com/
-- http://negativespace.co/
-- http://www.gratisography.com/
-- https://unsplash.com/
-- https://stocksnap.io/
-- http://jeshoots.com/
-- http://pixabay.com/ 
-- http://cupcake.nilssonlee.se/
-- http://www.uhdwallpapers.org/
-- http://kaboompics.com/
-- http://foodiesfeed.com/
-- http://www.raumrot.com/10/
-- http://jaymantri.com/
+## Bancos de Imagens
+
+* [Visual Hunt](https://visualhunt.com/)
+* [Epicantus](http://epicantus.tumblr.com/)
+* [kaboompics](http://kaboompics.com/)
+* [picjumbo](https://picjumbo.com)
+* [Foodies Feed](https://www.foodiesfeed.com/)
+* [Stocksnap.i/](https://stocksnap.io/)
+* [Gratisography](http://www.gratisography.com/)
 
 ### Ferramentas Úteis
 
-#### trabalhar com paletas de cores e harmonia:
+### trabalhar com paletas de cores e harmonia:
 
-https://color.adobe.com/pt
+- https://color.adobe.com/pt
 
 ### pesquisa a fonte atraves de imagem
-https://www.whatfontis.com/
 
-#### escreva um texto e exibe as fontes do PC com a escrita
-https://wordmark.it/
+- https://www.whatfontis.com/
 
-#### fontes únicas disponibilizadas por criadores
-https://www.deviantart.com/whats-hot/?q=free+font
+### escreva um texto e exibe as fontes do PC com a escrita
 
-#### tamanhos exatos das redes sociais
-http://marketingdeconteudo.com/tamanho-imagens-redes-socia…/
+- https://wordmark.it/
 
-#### Tudo sobre OpenGraph de redes socias para seu site
-http://blog.popupdesign.com.br/facebook-open-graph/
+### fontes únicas disponibilizadas por criadores
 
-#### Teste de preeviews de sites ao linkar no facebook
-https://www.facebook.com/login.php…
+- https://www.deviantart.com/whats-hot/?q=free+font
 
-#### Aceleração da sua StartUP projeto do governo
+### tamanhos exatos das redes sociais
+
+- http://marketingdeconteudo.com/tamanho-imagens-redes-socia…/
+
+### Tudo sobre OpenGraph de redes socias para seu site
+
+- http://blog.popupdesign.com.br/facebook-open-graph/
+
+### Teste de preeviews de sites ao linkar no facebook
+
+- https://www.facebook.com/login.php…
+
+### Aceleração da sua StartUP projeto do governo
+
 http://www.inovativabrasil.com.br/programa-de-aceleracao/…
 
 ### Mockups
+
 - https://www.teehanlax.com/tools/iphone
 - https://www.teehanlax.com/tools/ipad/
 - http://www.premiumpixels.com
@@ -733,6 +662,3 @@ http://www.inovativabrasil.com.br/programa-de-aceleracao/…
 - https://www.paulistacartoes.com.br/
 - http://www.graficagazetasp.com.br/
 - https://www.grafix.com.br/
-
-### Criar Memes
-- https://eeerik.com
