@@ -4,6 +4,7 @@
 
 * [Front End Checklist](https://github.com/thedaviddias/Front-End-Checklist)
 * [Front End Beginner](https://github.com/thedaviddias/Resources-Front-End-Beginner)
+* [MorganGeek BookMarks](https://github.com/MorganGeek/bookmarks)
 * [DevDocs](http://devdocs.io/)
 * [Alligator](https://alligator.io/)
 * [Rangle](https://rangle.io/)
@@ -27,7 +28,9 @@
 * [Coding Heroes](http://codingheroes.io/resources/)
 * [Web Tools Weekly](https://webtoolsweekly.com)
 * [Freecourses](https://freecourses.github.io/#/)
-* [Awesome Windows](https://github.com/Awesome-Windows/Awesome)
+* [Profession Programming](https://github.com/charlax/professional-programming)
+* [DEV NEWS](https://devurls.com/)
+* [Awesome Windows](https://github.com/Awesome-Windows/Awesome/)
 * [Validar código W3 ORG](https://validator.w3.org/)
 * [Frontend Cheatsheets](https://medium.freecodecamp.org/modern-frontend-hacking-cheatsheets-df9c2566c72a)
 
@@ -306,6 +309,8 @@
 
 ## CMS
 
+* [List TOP CMS](https://headlesscms.org/)
+* [CMS - Create API](https://strapi.io/)
 * [Hugo.io](https://gohugo.io/)
 * [Page kit](https://pagekit.com//)
 * [Wordpress](https://wordpress.org/)
@@ -511,6 +516,11 @@
 * [Foodies Feed](https://www.foodiesfeed.com/)
 * [Stocksnap.i/](https://stocksnap.io/)
 * [Gratisography](http://www.gratisography.com/)
+
+
+## Humor, Zuera, Passar o Tempo
+
+*[Theuselessweb](https://theuselessweb.com/)
 
 ### Ferramentas Úteis
 
