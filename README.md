@@ -509,6 +509,7 @@
 
 ## Bancos de Imagens
 
+* [Fotos, Womans, Nudes](https://fedorshmidt.com/photo/)
 * [Visual Hunt](https://visualhunt.com/)
 * [Epicantus](http://epicantus.tumblr.com/)
 * [kaboompics](http://kaboompics.com/)
