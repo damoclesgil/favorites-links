@@ -55,6 +55,7 @@
 - [30 seconds of css](https://atomiks.github.io/30-seconds-of-css/#truncate-text)
 - [CSS Sprite Generator](https://www.toptal.com/developers/css/sprite-generator)
 - [RESET CSS](https://meyerweb.com/eric/tools/css/reset/)
+- [SELECTORS CHEATSHEET](https://frontend30.com/css-selectors-cheatsheet/)
 
 ### GRID CSS e FLEXBOX
 
@@ -81,6 +82,7 @@
 - [Reddit JS](https://www.reddit.com/r/javascript/)
 - [EggHead io](https://egghead.io/)
 - [Code This not that js](https://github.com/codediodeio/code-this-not-that-js)
+- [JS CONCEPTS](https://github.com/leonardomso/33-js-concepts#18-objectcreate-and-objectassign)
 
 ## Animção, Interação com site, Libs de Animação, Animation
 
@@ -105,6 +107,11 @@
 - [THEME - Vuesax](https://lusaxweb.github.io/vuesax/)
 - [THEME - Vue Dark Mode](https://www.vuedarkmode.com/#fieldToggle)
 - [Vue authentication](https://github.com/sqreen/vue-authentication-example/tree/master/src/store)
+- [Native Script video](https://www.youtube.com/watch?v=QtGBCj6gCLY)
+- [Error Handler](https://dimitrioslytras.com/vue-error-handling/)
+- [VUEX](https://vuex.vuejs.org/ptbr/guide/modules.html)
+- [Mastering VUEX](https://coursehunter-club.net/t/vuemastery-mastering-vuex-part-1/541)
+- [SmashingMagazine](https://www.smashingmagazine.com/2019/02/interactive-weather-dashboard-api-vue-js/#top)
 
 ## TDD, Tests with JS
 
