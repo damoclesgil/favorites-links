@@ -8,6 +8,7 @@
 - [DevDocs](http://devdocs.io/)
 - [Alligator](https://alligator.io/)
 - [Rangle](https://rangle.io/)
+- [Dev To](https://dev.to/)
 - [Scotch](https://scotch.io/)
 - [HTML Lion](https://www.htmllion.com/index.html)
 - [Wes Bos](http://wesbos.com/)
@@ -73,7 +74,6 @@
 - [Modern JS cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
 - [Elo 7](https://engenharia.elo7.com.br/)
 - [Eloquente](http://braziljs.github.io/eloquente-javascript/)
-- [Regex](https://www.debuggex.com/cheatsheet/regex/javascript)
 - [Nipher](http://nipher.io/)
 - [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS#you-dont-know-js-book-series)
 - [ES6 Features](http://es6-features.org/#Constants)
@@ -83,6 +83,14 @@
 - [EggHead io](https://egghead.io/)
 - [Code This not that js](https://github.com/codediodeio/code-this-not-that-js)
 - [JS CONCEPTS](https://github.com/leonardomso/33-js-concepts#18-objectcreate-and-objectassign)
+
+### REGEX
+
+- [Regex 101](https://regex101.com/)
+- [Regex](https://www.debuggex.com/cheatsheet/regex/javascript)
+
+## Api
+- [Jamstack](https://jamstack.org/)
 
 ## Animção, Interação com site, Libs de Animação, Animation
 
@@ -417,6 +425,10 @@
 
 - [Curso de Inglês Grátis](http://www.cursodeinglesgratis.org)
 
+## Trabalho Remoto
+
+- [Remoto Job](https://github.com/alinebastos/remote)
+
 ## Cursos, Books e Repositorios de Cursos
 
 - [Quick Code](http://www.quickcode.co/)
@@ -456,6 +468,7 @@
 - [NewCpu Coins](https://newcpucoins.com/)
 - [DCG - Digital Currency Group](https://dcg.co/)
 - [Domains .io](https://domaintyper.com/top-websites/most-popular-websites-with-io-domain/page/1)
+- [Static Gen](https://www.staticgen.com/)
 
 ## Portfolios, Design & References
 
