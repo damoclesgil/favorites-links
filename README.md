@@ -121,6 +121,11 @@
 - [Mastering VUEX](https://coursehunter-club.net/t/vuemastery-mastering-vuex-part-1/541)
 - [SmashingMagazine](https://www.smashingmagazine.com/2019/02/interactive-weather-dashboard-api-vue-js/#top)
 - [VUE MEDIUM](https://medium.com/the-vue-point)
+- [VUE JS ORG](https://news.vuejs.org/)
+
+## Charts, Gráficos e Dados
+
+- [Echarts](https://echarts.apache.org/option.html#title)
 
 ## VAGAS DE EMPREGO
 - [INDEED](https://www.indeed.com.br/empregos?q=&l=Goi%C3%A2nia%2C+GO)
@@ -128,6 +133,8 @@
 - [REVELO](https://www.revelo.com.br)
 - [Trabalha Brasil](https://www.trabalhabrasil.com.br/vagas-empregos-em-goiania-go/desenvolvedor%20frontend)
 - [VAGAS](https://www.vagas.com.br/vagas-de-programador-em-Goi%C3%A2nia?c[]=Goi%C3%A2nia)
+- [Vagas Remotas](https://github.com/alinebastos/remote)
+- [Vagas Github Brasil](https://github.com/frontendbr/vagas)
 
 ## Carros
 - [Fiat Punto - Cesar Cielo](https://www.icarros.com.br/tabela-fipe/fiat/punto/2009/punto-sporting-1.8-flex)
@@ -202,6 +209,8 @@
 - [SVG View Windows Explorer 2](https://github.com/maphew/svg-explorer-extension/releases/)
 - [Windows Explorer Preview PSD](http://www.luisaambros.com/blog/previa-em-miniatura-de-arquivos-psd-ai-pdf-eps-no-windows-explorer/)
 - [Windows 10 - Themes](http://www.themeraider.com/)
+- [Visualizador de Vídeo - PorPlayer](https://potplayer.daum.net/)
+- [Visualizador de Imagem - Image Glass](https://imageglass.org/)
 
 ## Colors
 
