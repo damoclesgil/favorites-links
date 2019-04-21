@@ -31,7 +31,6 @@
 - [Freecourses](https://freecourses.github.io/#/)
 - [Profession Programming](https://github.com/charlax/professional-programming)
 - [DEV NEWS](https://devurls.com/)
-- [Awesome Windows](https://github.com/Awesome-Windows/Awesome/)
 - [Validar código W3 ORG](https://validator.w3.org/)
 - [Frontend Cheatsheets](https://medium.freecodecamp.org/modern-frontend-hacking-cheatsheets-df9c2566c72a)
 
@@ -204,6 +203,7 @@
 
 ## Windows
 
+- [Awesome Windows](https://github.com/Awesome-Windows/Awesome/)
 - [Ninite](https://ninite.com/)
 - [SVG View Windows Explorer 1](https://svgextension.codeplex.com/releases/view/118790)
 - [SVG View Windows Explorer 2](https://github.com/maphew/svg-explorer-extension/releases/)
@@ -211,6 +211,7 @@
 - [Windows 10 - Themes](http://www.themeraider.com/)
 - [Visualizador de Vídeo - PorPlayer](https://potplayer.daum.net/)
 - [Visualizador de Imagem - Image Glass](https://imageglass.org/)
+- [Cursores daora](https://www.deviantart.com/customization/skins/windows/cursors/popular-all-time/)
 
 ## Colors
 
