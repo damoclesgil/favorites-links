@@ -134,6 +134,7 @@
 - [VAGAS](https://www.vagas.com.br/vagas-de-programador-em-Goi%C3%A2nia?c[]=Goi%C3%A2nia)
 - [Vagas Remotas](https://github.com/alinebastos/remote)
 - [Vagas Github Brasil](https://github.com/frontendbr/vagas)
+- [empregos.com.br](https://www.empregos.com.br/vagas/goiania/go/javascript)
 
 ## Carros
 - [Fiat Punto - Cesar Cielo](https://www.icarros.com.br/tabela-fipe/fiat/punto/2009/punto-sporting-1.8-flex)
