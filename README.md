@@ -31,7 +31,6 @@
 - [Freecourses](https://freecourses.github.io/#/)
 - [Profession Programming](https://github.com/charlax/professional-programming)
 - [DEV NEWS](https://devurls.com/)
-- [Awesome Windows](https://github.com/Awesome-Windows/Awesome/)
 - [Validar código W3 ORG](https://validator.w3.org/)
 - [Frontend Cheatsheets](https://medium.freecodecamp.org/modern-frontend-hacking-cheatsheets-df9c2566c72a)
 - [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html#Optional_Tags)
@@ -124,6 +123,11 @@
 - [Mastering VUEX](https://coursehunter-club.net/t/vuemastery-mastering-vuex-part-1/541)
 - [SmashingMagazine](https://www.smashingmagazine.com/2019/02/interactive-weather-dashboard-api-vue-js/#top)
 - [VUE MEDIUM](https://medium.com/the-vue-point)
+- [VUE JS ORG](https://news.vuejs.org/)
+
+## Charts, Gráficos e Dados
+
+- [Echarts](https://echarts.apache.org/option.html#title)
 
 ## VAGAS DE EMPREGO
 
@@ -132,6 +136,9 @@
 - [REVELO](https://www.revelo.com.br)
 - [Trabalha Brasil](https://www.trabalhabrasil.com.br/vagas-empregos-em-goiania-go/desenvolvedor%20frontend)
 - [VAGAS](https://www.vagas.com.br/vagas-de-programador-em-Goi%C3%A2nia?c[]=Goi%C3%A2nia)
+- [Vagas Remotas](https://github.com/alinebastos/remote)
+- [Vagas Github Brasil](https://github.com/frontendbr/vagas)
+- [empregos.com.br](https://www.empregos.com.br/vagas/goiania/go/javascript)
 
 ## Carros
 
@@ -202,11 +209,15 @@
 
 ## Windows
 
+- [Awesome Windows](https://github.com/Awesome-Windows/Awesome/)
 - [Ninite](https://ninite.com/)
 - [SVG View Windows Explorer 1](https://svgextension.codeplex.com/releases/view/118790)
 - [SVG View Windows Explorer 2](https://github.com/maphew/svg-explorer-extension/releases/)
 - [Windows Explorer Preview PSD](http://www.luisaambros.com/blog/previa-em-miniatura-de-arquivos-psd-ai-pdf-eps-no-windows-explorer/)
 - [Windows 10 - Themes](http://www.themeraider.com/)
+- [Visualizador de Vídeo - PorPlayer](https://potplayer.daum.net/)
+- [Visualizador de Imagem - Image Glass](https://imageglass.org/)
+- [Cursores daora](https://www.deviantart.com/customization/skins/windows/cursors/popular-all-time/)
 
 ## Colors
 
