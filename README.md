@@ -34,6 +34,7 @@
 - [Awesome Windows](https://github.com/Awesome-Windows/Awesome/)
 - [Validar código W3 ORG](https://validator.w3.org/)
 - [Frontend Cheatsheets](https://medium.freecodecamp.org/modern-frontend-hacking-cheatsheets-df9c2566c72a)
+- [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html#Optional_Tags)
 
 ## CSS
 
@@ -90,6 +91,7 @@
 - [Regex](https://www.debuggex.com/cheatsheet/regex/javascript)
 
 ## Api
+
 - [Jamstack](https://jamstack.org/)
 
 ## Animção, Interação com site, Libs de Animação, Animation
@@ -106,6 +108,7 @@
 - [Scroll Suave](https://codepen.io/origamid/pen/eKGvdo)
 
 ## VUEJS
+
 - [VUE COMMUNITY](https://vue-community.org/guide/)
 - [VUE JS AWESOME](https://github.com/vuejs/awesome-vue)
 - [Dynamic Tempaltes](https://medium.com/scrumpy/dynamic-component-templates-with-vue-js-d9236ab183bb)
@@ -123,6 +126,7 @@
 - [VUE MEDIUM](https://medium.com/the-vue-point)
 
 ## VAGAS DE EMPREGO
+
 - [INDEED](https://www.indeed.com.br/empregos?q=&l=Goi%C3%A2nia%2C+GO)
 - [CATHO](https://www.catho.com.br/vagas/?q=Desenvolvedor&pais_id=31&estado_id%5B%5D=9&regiao_id%5B%5D=&cidade_id%5B%5D=&cidade=Goias+%28estado%29)
 - [REVELO](https://www.revelo.com.br)
@@ -130,6 +134,7 @@
 - [VAGAS](https://www.vagas.com.br/vagas-de-programador-em-Goi%C3%A2nia?c[]=Goi%C3%A2nia)
 
 ## Carros
+
 - [Fiat Punto - Cesar Cielo](https://www.icarros.com.br/tabela-fipe/fiat/punto/2009/punto-sporting-1.8-flex)
 
 ## TDD, Tests with JS
