@@ -278,6 +278,7 @@
 
 ## SEO
 
+- [SEO Tools](https://seotoolextension.com/)
 - [SEO Topper](https://github.com/gustavoquinalha/seotopper)
 - [WebMaster Tools](https://www.google.com/webmasters/tools)
 - [Web Page Test](https://www.webpagetest.org/)
