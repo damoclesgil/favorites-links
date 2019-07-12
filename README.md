@@ -124,6 +124,13 @@
 - [SmashingMagazine](https://www.smashingmagazine.com/2019/02/interactive-weather-dashboard-api-vue-js/#top)
 - [VUE MEDIUM](https://medium.com/the-vue-point)
 - [VUE JS ORG](https://news.vuejs.org/)
+- [VUE Mastery](https://github.com/Code-Pop)
+
+## VUEX
+
+- [Scaling-large-vuejs-application](https://dev.to/maxpou/3-tips-for-scaling-large-vuejs-application-2edi)
+- [structuring-vue-componentS](https://vueschool.io/articles/vuejs-tutorials/structuring-vue-components/)
+- [Boilerplate VUEX](https://dev.to/sadick/you-can-minimize-vuex-boilerplate-in-under-a-minute-5ao1)
 
 ## Charts, Gráficos e Dados
 
@@ -198,6 +205,7 @@
 - [Mockup World](https://www.mockupworld.co/)
 - [Mystock](http://mystock.photos/)
 - [UpLabs](https://www.uplabs.com)
+- [Lazy Load Chrome](https://addyosmani.com/blog/lazy-loading/)
 
 ## SVG
 
