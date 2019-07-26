@@ -84,6 +84,7 @@
 - [EggHead io](https://egghead.io/)
 - [Code This not that js](https://github.com/codediodeio/code-this-not-that-js)
 - [JS CONCEPTS](https://github.com/leonardomso/33-js-concepts#18-objectcreate-and-objectassign)
+- [Javascript Questions](https://github.com/lydiahallie/javascript-questions/blob/master/README_pt_BR.md)
 
 ### REGEX
 
@@ -109,6 +110,7 @@
 
 ## VUEJS
 
+
 - [VUE COMMUNITY](https://vue-community.org/guide/)
 - [VUE JS AWESOME](https://github.com/vuejs/awesome-vue)
 - [Dynamic Tempaltes](https://medium.com/scrumpy/dynamic-component-templates-with-vue-js-d9236ab183bb)
@@ -125,6 +127,12 @@
 - [SmashingMagazine](https://www.smashingmagazine.com/2019/02/interactive-weather-dashboard-api-vue-js/#top)
 - [VUE MEDIUM](https://medium.com/the-vue-point)
 - [VUE JS ORG](https://news.vuejs.org/)
+- [VUE Mastery](https://github.com/Code-Pop)
+
+### VUE Vida Real (Boilerplates)
+
+- [VUE Enterprise Boilerplate](https://github.com/chrisvfritz/vue-enterprise-boilerplate)
+- [Vue Real World ](https://github.com/gothinkster/vue-realworld-example-app)
 - [VUE Mastery](https://github.com/Code-Pop)
 
 ## VUEX
@@ -148,6 +156,10 @@
 - [Vagas Github Brasil](https://github.com/frontendbr/vagas)
 - [empregos.com.br](https://www.empregos.com.br/vagas/goiania/go/javascript)
 
+## Finanças, Financeiro, Investimento, Invest
+
+[Bastter](https://www.bastter.com/Mercado/)
+
 ## Carros
 
 - [Fiat Punto - Cesar Cielo](https://www.icarros.com.br/tabela-fipe/fiat/punto/2009/punto-sporting-1.8-flex)
@@ -168,6 +180,10 @@
 - [Hyper](https://hyper.is/)
 - [Cmder](http://cmder.net/)
 - [Terminus](https://eugeny.github.io/terminus/)
+
+### PWA
+
+- [PWA - Sem Framework](https://www.smashingmagazine.com/2019/07/progressive-web-application-pwa-framework-part-1/)
 
 ## NPM
 
