@@ -2,6 +2,7 @@
 
 ## Front-End Development
 
+- [Essential FRont Sources in 2019](https://dev.to/zahinize/essential-frontend-resources-in-2019-2p15?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email)
 - [Front End Checklist](https://github.com/thedaviddias/Front-End-Checklist)
 - [Front End Beginner](https://github.com/thedaviddias/Resources-Front-End-Beginner)
 - [MorganGeek BookMarks](https://github.com/MorganGeek/bookmarks)
@@ -56,6 +57,7 @@
 - [30 seconds of css](https://atomiks.github.io/30-seconds-of-css/#truncate-text)
 - [CSS Sprite Generator](https://www.toptal.com/developers/css/sprite-generator)
 - [RESET CSS](https://meyerweb.com/eric/tools/css/reset/)
+- [MODERN RESET CSS](https://hankchizljaw.com/wrote/a-modern-css-reset/)
 - [SELECTORS CHEATSHEET](https://frontend30.com/css-selectors-cheatsheet/)
 - [Best Framework CSS tailwindcss](https://tailwindcss.com/)
 
@@ -85,6 +87,7 @@
 - [Code This not that js](https://github.com/codediodeio/code-this-not-that-js)
 - [JS CONCEPTS](https://github.com/leonardomso/33-js-concepts#18-objectcreate-and-objectassign)
 - [Javascript Questions](https://github.com/lydiahallie/javascript-questions/blob/master/README_pt_BR.md)
+- [Underscore](https://underscorejs.org/)
 
 ### REGEX
 
@@ -155,6 +158,7 @@
 - [Vagas Remotas](https://github.com/alinebastos/remote)
 - [Vagas Github Brasil](https://github.com/frontendbr/vagas)
 - [empregos.com.br](https://www.empregos.com.br/vagas/goiania/go/javascript)
+- [X Team Remote Job - VUE](https://x-team.com/remote-vuejs-developer-jobs/)
 
 ## Finanças, Financeiro, Investimento, Invest
 
@@ -223,6 +227,7 @@
 - [Mystock](http://mystock.photos/)
 - [UpLabs](https://www.uplabs.com)
 - [Lazy Load Chrome](https://addyosmani.com/blog/lazy-loading/)
+- [UI Interactions -  Rapahel Fabeni](https://raphaelfabeni.com/ui-interactions/)
 
 ## SVG
 
@@ -334,6 +339,7 @@
 
 ## Extensions
 
+- [Chrome Extensions](https://dev.to/shijiezhou/top-10-chrome-extensions-every-developer-likes-3ehk?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email)
 - [OctoLinker](http://octolinker.github.io/)
 - [Octotree](https://github.com/buunguyen/octotree)
 - [Code Copy](https://github.com/zenorocha/codecopy)
@@ -483,6 +489,7 @@
 - [Web Moderno](https://github.com/cod3rcursos/web-moderno/)
 - [Respository Performance Web 2- Alura Sérgio Lopes](https://github.com/alura-cursos/performance-web-2)
 - [Node JS - No NPM](https://courseclub.net/pirple-the-node-js-master-class-no-frameworks-no-npm-no-dependencies/)
+- [FUllstack part3 | NODE.JS AND EXPRESS](https://fullstackopen.com/en/part3/node_js_and_express)
 
 ## Utils
 
@@ -545,6 +552,10 @@
 - [Cookie Clicker](http://orteil.dashnet.org/cookieclicker/)
 - [Osu](https://osu.ppy.sh/users/14041192)
 
+### TFT - League of Legends
+
+- [TFT Deck COmps](https://lolchess.gg/meta)
+- [TFT Builder](https://www.leagueofgraphs.com/pt/tft/team-builder)
 ## Games Mobile
 
 - [Lineage 2: Revolution](https://play.google.com/store/apps/details?id=com.netmarble.lin2ws)
