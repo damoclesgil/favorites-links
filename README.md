@@ -361,6 +361,15 @@
 - [Site mod.io](https://sitemod.io/)
 - [Wappalyzer](https://www.google.com.br/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiL5sDD5oTYAhXLGZAKHTaDBbMQFggpMAA&url=https%3A%2F%2Fchrome.google.com%2Fwebstore%2Fdetail%2Fwappalyzer%2Fgppongmhjkpfnbhagpmjfkannfbllamg%3Fhl%3Den&usg=AOvVaw3_UVGEz8V7Cdtgjy4W3GSO)
 - [Copy CSS - csscan](https://github.com/guivr/cssscan)
+- Grammarly for Chrome
+- Betternet Unlimited Free VPN Proxy
+- Dark Reader
+- Adblock Plus - bloqueador de anúncios grátis
+- Allow CORS: Access-Control-Allow-Origin
+- OneTab
+- Page Ruler
+- Wappalyzer
+- Picture-in-Picture Extension (by Google)
 
 ## Marketing
 

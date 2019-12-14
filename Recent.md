@@ -1,0 +1,26 @@
+# Recent Favorits
+
+- [Site feito com Vue](https://br.louisvuitton.com/por-br/homepage)
+- https://gist.github.com/kelvinst/331aff32508e2517afbd
+- https://github.com/ContaAzul?page=2
+- https://github.com/sdras/vue-vscode-snippets/blob/master/snippets/vue-script.json
+- https://github.com/chrisvfritz/vue-enterprise-boilerplate
+- https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/documentation/
+- https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/dashboard/analytics
+- https://medium.com/justfrontendthings/how-to-create-and-publish-your-own-vuejs-component-library-on-npm-using-vue-cli-28e60943eed3
+- https://www.youtube.com/watch?v=xDDhovzgeT0
+- https://www.codeandweb.com/babeledit/tutorials/how-to-translate-your-vue-app-with-vue-i18n
+- https://prismic.io/
+- https://www.hygen.io/quick-start
+- https://www.google.com/search?q=fish+terminal&oq=fish+ter&aqs=chrome.1.69i57j0l5.2440j0j7&client=ubuntu&sourceid=chrome&ie=UTF-8
+- https://github.com/jonasschmedtmann/complete-javascript-course/blob/master/8-asynchronous-JS/final/asynchronous.html
+- https://gist.github.com/letanure
+- https://github.com/LinusBorg/composition-api-demos
+- https://lodash.com/docs/#get
+- https://element.eleme.io/#/en-US
+- https://tonsky.me/
+- https://www.submarino.com.br/produto/58043015/cabo-adaptador-conversor-usb-para-hdmi-usb-3-0?WT.srch=1&acc=d47a04c6f99456bc289220d5d0ff208d&epar=bp_pl_00_go_g35164&gclid=CjwKCAiAxMLvBRBNEiwAKhr-nBgbLYz51X6Wr40ucgHrQ1UFBru4iJycgv9EalmrLHSq-cynk6fHvhoC4ioQAvD_BwE&i=5cc292f949f937f625a14c34&o=5c9a95f36c28a3cb509030c6&opn=XMLGOOGLE&sellerId=2822731000148&sellerid=2822731000148&wt.srch=1
+- https://binarcode.github.io/vue-form-wizard/?ref=madewithvuejs.com#/
+- https://vue-multiselect.js.org/#sub-getting-started
+- https://github.com/vueschool
+- http://infotechgoianesia.com.br:2082/
