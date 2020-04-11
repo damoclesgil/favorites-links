@@ -339,6 +339,7 @@
 
 ## Extensions
 
+- [Open Video new Window](https://chrome.google.com/webstore/detail/picture-in-picture-extens/hkgfoiooedgoejojocmhlaklaeopbecg/related?hl=en-US)
 - [Chrome Extensions](https://dev.to/shijiezhou/top-10-chrome-extensions-every-developer-likes-3ehk?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email)
 - [OctoLinker](http://octolinker.github.io/)
 - [Octotree](https://github.com/buunguyen/octotree)
